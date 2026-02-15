@@ -252,4 +252,45 @@
         color: white;
         border-color: var(--color-brand-500);
     }
+
+    @media (max-width: 768px) {
+        .time-control {
+            padding: 6px 12px;
+            gap: 4px;
+        }
+        .time-main {
+            gap: 8px;
+        }
+        .play-btn {
+            width: 30px;
+            height: 30px;
+        }
+        .play-btn svg {
+            width: 13px;
+            height: 13px;
+        }
+        .year-badge {
+            font-size: 11px;
+            padding: 2px 5px;
+            min-width: 38px;
+        }
+        .year-sep {
+            font-size: 10px;
+        }
+        .decade-jumps {
+            gap: 2px;
+            overflow-x: auto;
+            flex-wrap: nowrap;
+            -webkit-overflow-scrolling: touch;
+            scrollbar-width: none;
+        }
+        .decade-jumps::-webkit-scrollbar {
+            display: none;
+        }
+        .decade-btn {
+            font-size: 9px;
+            padding: 2px 5px;
+            flex-shrink: 0;
+        }
+    }
 </style>

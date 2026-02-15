@@ -59,7 +59,7 @@ An interactive network graph mapping comedian alliances — collaborations, trou
 | 🌙 **Day/Dark Mode** | One-click toggle with persistence |
 | 👥 **Groups & Movements** | Browse 19 comedy movements from Vaudeville to modern Indian stand-up |
 | 📊 **Data Explorer** | Searchable table of all comedians and alliances with JSON download |
-| 📱 **Mobile First** | Collapsible filter panel, bottom-sheet details, floating FAB toggle |
+| 📱 **Mobile First** | Compact navbar, bottom-sheet details with drag handle, collapsible filter drawer, touch-optimized canvas, notch/safe-area support |
 | ♿ **Accessible** | Keyboard navigation, focus management, reduced motion, WCAG contrast |
 
 ## 🌍 Global Coverage
@@ -224,10 +224,15 @@ See [DEPLOY.md](DEPLOY.md) for detailed setup.
 [![Responsive](https://img.shields.io/badge/Responsive-Yes-4ade80?style=flat-square)](#)
 [![Tested On](https://img.shields.io/badge/Tested-iPhone_14_Pro-333?style=flat-square&logo=apple)](#)
 
-- **Collapsible filter panel** — floating FAB with comedian count badge
-- **Bottom-sheet details** — tapping a comedian shows info from bottom
-- **Full-width graph** — no sidebar blocking on small screens
-- **Touch-optimized** — pinch-to-zoom, tap-to-select
+- **Compact navbar** — reduced height (44px), smaller text, hidden keyboard shortcuts
+- **Collapsible filter drawer** — slide-in from left with tighter layout (240px width)
+- **Bottom-sheet details** — 45vh max height with drag-handle indicator and tighter padding
+- **Hidden legend** — removed on mobile to maximize graph viewport
+- **Touch-optimized graph** — `touch-action: none` for smooth pinch-to-zoom, no tooltip on tap
+- **Compact time slider** — smaller play button, scrollable decade jumps
+- **Safe-area support** — `viewport-fit=cover` for iPhone notch / Dynamic Island
+- **Full-width pages** — About, Data, and Groups pages adapt to narrow screens
+- **iOS zoom prevention** — search input uses 16px to prevent auto-zoom on focus
 
 ## 🤝 Contributing
 

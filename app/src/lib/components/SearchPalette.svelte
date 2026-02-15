@@ -206,4 +206,32 @@
         color: var(--text-muted);
         font-size: 14px;
     }
+
+    @media (max-width: 768px) {
+        .search-overlay {
+            padding-top: 10vh;
+            padding-left: 12px;
+            padding-right: 12px;
+        }
+        .search-modal {
+            max-width: 100%;
+            border-radius: 12px;
+        }
+        .sinput-row {
+            padding: 12px 14px;
+            gap: 8px;
+        }
+        .sinput {
+            font-size: 16px; /* prevent iOS zoom */
+        }
+        .sresults {
+            max-height: 45vh;
+        }
+        .sr {
+            padding: 10px;
+        }
+        .kbd {
+            display: none;
+        }
+    }
 </style>

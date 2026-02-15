@@ -339,4 +339,36 @@
     a {
         color: var(--color-brand-500);
     }
+
+    @media (max-width: 768px) {
+        .data-page {
+            padding: 20px 12px;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        .subtitle {
+            font-size: 14px;
+        }
+        .toolbar {
+            flex-direction: column;
+            align-items: stretch;
+        }
+        .tabs {
+            justify-content: center;
+        }
+        .filter-input {
+            min-width: 0;
+        }
+        table {
+            font-size: 12px;
+        }
+        th,
+        td {
+            padding: 6px 8px;
+        }
+        .sum-cell {
+            max-width: 160px;
+        }
+    }
 </style>

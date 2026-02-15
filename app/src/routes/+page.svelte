@@ -44,4 +44,10 @@
         position: relative;
         overflow: hidden;
     }
+
+    @media (max-width: 768px) {
+        .explorer {
+            flex-direction: column;
+        }
+    }
 </style>

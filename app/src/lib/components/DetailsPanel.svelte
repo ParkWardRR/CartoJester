@@ -215,7 +215,7 @@
             right: 0;
             width: 100%;
             min-width: 100%;
-            max-height: 60vh;
+            max-height: 45vh;
             height: auto;
             border-left: none;
             border-top: 1px solid var(--border);
@@ -224,9 +224,21 @@
             transform: translateY(100%);
             transition: transform 0.25s ease;
             box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+            padding: 12px 14px;
+            gap: 10px;
         }
         .details-panel.open {
             transform: translateY(0);
+        }
+        .details-panel::before {
+            content: "";
+            display: block;
+            width: 36px;
+            height: 4px;
+            border-radius: 2px;
+            background: var(--text-muted);
+            opacity: 0.3;
+            margin: 0 auto 4px;
         }
     }
     .panel-header {
@@ -438,5 +450,23 @@
     .hint {
         font-size: 12px;
         opacity: 0.6;
+    }
+
+    @media (max-width: 768px) {
+        .empty-state {
+            display: none;
+        }
+        .panel-header h2 {
+            font-size: 16px;
+        }
+        .alliance-item {
+            padding: 8px 10px;
+        }
+        .alliance-name {
+            font-size: 13px;
+        }
+        .alliance-summary {
+            font-size: 11px;
+        }
     }
 </style>

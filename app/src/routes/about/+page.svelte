@@ -211,4 +211,20 @@
         font-size: 13px;
         margin: 0;
     }
+
+    @media (max-width: 768px) {
+        .about-page {
+            padding: 20px 14px;
+        }
+        h1 {
+            font-size: 24px;
+        }
+        .subtitle {
+            font-size: 14px;
+        }
+        .type-grid {
+            grid-template-columns: 1fr;
+            gap: 8px;
+        }
+    }
 </style>

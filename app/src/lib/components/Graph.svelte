@@ -646,4 +646,16 @@
     text-transform: uppercase;
     letter-spacing: 0.5px;
   }
+
+  @media (max-width: 768px) {
+    .graph-container {
+      border-radius: 0;
+    }
+    canvas {
+      touch-action: none;
+    }
+    .tooltip {
+      display: none;
+    }
+  }
 </style>

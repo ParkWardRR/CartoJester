@@ -40,6 +40,13 @@
         padding: 8px 12px;
         z-index: 10;
         box-shadow: var(--shadow-md);
+        max-width: calc(100% - 24px);
+        overflow-x: auto;
+    }
+    @media (max-width: 768px) {
+        .legend {
+            display: none;
+        }
     }
     .legend-group {
         display: flex;

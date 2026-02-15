@@ -93,8 +93,8 @@
     aria-label="Toggle filters"
 >
     <svg
-        width="20"
-        height="20"
+        width="16"
+        height="16"
         viewBox="0 0 24 24"
         fill="none"
         stroke="currentColor"
@@ -246,11 +246,11 @@
     .mobile-toggle {
         display: none;
         position: fixed;
-        bottom: 20px;
-        left: 20px;
+        top: 52px;
+        left: 8px;
         z-index: 1000;
-        width: 48px;
-        height: 48px;
+        width: 40px;
+        height: 40px;
         border-radius: 50%;
         border: 1px solid var(--border);
         background: var(--bg-panel);
@@ -258,12 +258,12 @@
         cursor: pointer;
         align-items: center;
         justify-content: center;
-        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        box-shadow: 0 2px 12px rgba(0, 0, 0, 0.2);
         transition: all 0.2s;
     }
     .mobile-toggle:hover {
         transform: scale(1.05);
-        box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3);
     }
     .toggle-badge {
         display: none;
@@ -275,19 +275,20 @@
     @media (max-width: 768px) {
         .mobile-toggle {
             display: flex;
+            top: 50px;
         }
         .toggle-badge {
             display: block;
             position: absolute;
-            top: -4px;
-            right: -4px;
+            top: -3px;
+            right: -3px;
             background: var(--color-brand-500, #8b5cf6);
             color: #fff;
-            font-size: 9px;
+            font-size: 8px;
             font-weight: 700;
-            padding: 2px 5px;
-            border-radius: 10px;
-            min-width: 18px;
+            padding: 1px 4px;
+            border-radius: 8px;
+            min-width: 16px;
             text-align: center;
         }
         .mobile-backdrop {
@@ -315,13 +316,17 @@
     @media (max-width: 768px) {
         .filter-panel {
             position: fixed;
-            top: 56px;
+            top: 44px;
             left: 0;
             bottom: 0;
+            width: 240px;
+            min-width: 240px;
             z-index: 999;
             transform: translateX(-100%);
             transition: transform 0.25s ease;
             box-shadow: 4px 0 20px rgba(0, 0, 0, 0.3);
+            padding: 14px 12px;
+            gap: 12px;
         }
         .filter-panel.open {
             transform: translateX(0);

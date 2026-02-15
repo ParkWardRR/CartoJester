@@ -193,4 +193,34 @@
         padding: 0;
         justify-content: center;
     }
+
+    @media (max-width: 768px) {
+        .navbar {
+            height: 44px;
+            padding: 0 10px;
+        }
+        .logo-icon {
+            font-size: 18px;
+        }
+        .logo-text {
+            font-size: 13px;
+        }
+        .nav-links {
+            gap: 1px;
+        }
+        .nav-links a {
+            font-size: 11px;
+            padding: 4px 7px;
+        }
+        .nav-btn {
+            height: 28px;
+            padding: 0 6px;
+        }
+        .nav-btn kbd {
+            display: none;
+        }
+        .theme-toggle {
+            width: 28px;
+        }
+    }
 </style>
