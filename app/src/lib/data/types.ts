@@ -64,7 +64,12 @@ export const TAG_COLORS: Record<string, string> = {
     vaudeville: '#d97706',
     podcast: '#10b981',
     panel: '#e879f9',
-    latenight: '#f472b6'
+    latenight: '#f472b6',
+    india: '#f59e0b',
+    philippines: '#22d3ee',
+    indonesia: '#06b6d4',
+    malaysia: '#a78bfa',
+    singapore: '#818cf8'
 };
 
 export const ERA_PRESETS: { label: string; start: number; end: number }[] = [

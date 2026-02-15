@@ -14368,6 +14368,807 @@
           "url": "https://en.wikipedia.org/wiki/Jane_Fonda"
         }
       ]
+    },
+    {
+      "id": "johnny-lever",
+      "name": "Johnny Lever",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film",
+        "standup"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Lever"
+        }
+      ]
+    },
+    {
+      "id": "kishore-kumar",
+      "name": "Kishore Kumar",
+      "aka": [],
+      "bornYear": 1929,
+      "diedYear": 1987,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kishore_Kumar"
+        }
+      ]
+    },
+    {
+      "id": "deven-verma",
+      "name": "Deven Verma",
+      "aka": [],
+      "bornYear": 1937,
+      "diedYear": 2014,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Deven_Verma"
+        }
+      ]
+    },
+    {
+      "id": "i-s-johar",
+      "name": "I. S. Johar",
+      "aka": [],
+      "bornYear": 1920,
+      "diedYear": 1984,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/I._S._Johar"
+        }
+      ]
+    },
+    {
+      "id": "jagdeep",
+      "name": "Jagdeep",
+      "aka": [],
+      "bornYear": 1939,
+      "diedYear": 2020,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jagdeep"
+        }
+      ]
+    },
+    {
+      "id": "jaspal-bhatti",
+      "name": "Jaspal Bhatti",
+      "aka": [],
+      "bornYear": 1955,
+      "diedYear": 2012,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "tv",
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jaspal_Bhatti"
+        }
+      ]
+    },
+    {
+      "id": "johnny-walker-actor",
+      "name": "Johnny Walker",
+      "aka": [],
+      "bornYear": 1926,
+      "diedYear": 2003,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Johnny_Walker_(actor)"
+        }
+      ]
+    },
+    {
+      "id": "kader-khan",
+      "name": "Kader Khan",
+      "aka": [],
+      "bornYear": 1937,
+      "diedYear": 2018,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kader_Khan"
+        }
+      ]
+    },
+    {
+      "id": "keshto-mukherjee",
+      "name": "Keshto Mukherjee",
+      "aka": [],
+      "bornYear": 1934,
+      "diedYear": 2012,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Keshto_Mukherjee"
+        }
+      ]
+    },
+    {
+      "id": "mehmood",
+      "name": "Mehmood",
+      "aka": [],
+      "bornYear": 1932,
+      "diedYear": 2004,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mehmood_(actor)"
+        }
+      ]
+    },
+    {
+      "id": "vir-das",
+      "name": "Vir Das",
+      "aka": [],
+      "bornYear": 1979,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "standup",
+        "film"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vir_Das"
+        }
+      ]
+    },
+    {
+      "id": "zakir-khan",
+      "name": "Zakir Khan",
+      "aka": [],
+      "bornYear": 1987,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "standup"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zakir_Khan_(comedian)"
+        }
+      ]
+    },
+    {
+      "id": "kapil-sharma",
+      "name": "Kapil Sharma",
+      "aka": [],
+      "bornYear": 1981,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "tv",
+        "standup"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kapil_Sharma_(comedian)"
+        }
+      ]
+    },
+    {
+      "id": "sunil-grover",
+      "name": "Sunil Grover",
+      "aka": [],
+      "bornYear": 1977,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "tv"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sunil_Grover"
+        }
+      ]
+    },
+    {
+      "id": "tanmay-bhat",
+      "name": "Tanmay Bhat",
+      "aka": [],
+      "bornYear": 1987,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "standup",
+        "podcast"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tanmay_Bhat"
+        }
+      ]
+    },
+    {
+      "id": "munawar-faruqui",
+      "name": "Munawar Faruqui",
+      "aka": [],
+      "bornYear": 1992,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Munawar_Faruqui"
+        }
+      ]
+    },
+    {
+      "id": "papa-cj",
+      "name": "Papa CJ",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Papa_CJ"
+        }
+      ]
+    },
+    {
+      "id": "vadivelu",
+      "name": "Vadivelu",
+      "aka": [],
+      "bornYear": 1961,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vadivelu"
+        }
+      ]
+    },
+    {
+      "id": "yogi-babu",
+      "name": "Yogi Babu",
+      "aka": [],
+      "bornYear": 1985,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Yogi_Babu"
+        }
+      ]
+    },
+    {
+      "id": "varun-grover-writer",
+      "name": "Varun Grover",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Varun_Grover_(writer)"
+        }
+      ]
+    },
+    {
+      "id": "sorabh-pant",
+      "name": "Sorabh Pant",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "standup"
+      ],
+      "notability": 2,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sorabh_Pant"
+        }
+      ]
+    },
+    {
+      "id": "vasu-primlani",
+      "name": "Vasu Primlani",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "india",
+        "standup"
+      ],
+      "notability": 2,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Vasu_Primlani"
+        }
+      ]
+    },
+    {
+      "id": "dolphy",
+      "name": "Dolphy",
+      "aka": [],
+      "bornYear": 1928,
+      "diedYear": 2012,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "philippines",
+        "film"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dolphy"
+        }
+      ]
+    },
+    {
+      "id": "german-moreno",
+      "name": "German Moreno",
+      "aka": [],
+      "bornYear": 1933,
+      "diedYear": 2016,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "philippines",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/German_Moreno"
+        }
+      ]
+    },
+    {
+      "id": "don-pepot",
+      "name": "Don Pepot",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "philippines",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Don_Pepot"
+        }
+      ]
+    },
+    {
+      "id": "elizabeth-ramsey",
+      "name": "Elizabeth Ramsey",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "philippines",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Elizabeth_Ramsey"
+        }
+      ]
+    },
+    {
+      "id": "larry-silva",
+      "name": "Larry Silva",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "philippines",
+        "film"
+      ],
+      "notability": 2,
+      "links": []
+    },
+    {
+      "id": "ateng-actor",
+      "name": "Ateng",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "indonesia",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ateng_(actor)"
+        }
+      ]
+    },
+    {
+      "id": "dono",
+      "name": "Dono",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "indonesia",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dono"
+        }
+      ]
+    },
+    {
+      "id": "tukul-arwana",
+      "name": "Tukul Arwana",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "indonesia",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tukul_Arwana"
+        }
+      ]
+    },
+    {
+      "id": "indra-birowo",
+      "name": "Indra Birowo",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "indonesia",
+        "tv"
+      ],
+      "notability": 2,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Indra_Birowo"
+        }
+      ]
+    },
+    {
+      "id": "denny-cagur",
+      "name": "Denny Cagur",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "indonesia",
+        "tv"
+      ],
+      "notability": 2,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Denny_Cagur"
+        }
+      ]
+    },
+    {
+      "id": "harith-iskander",
+      "name": "Harith Iskander",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "malaysia",
+        "standup"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harith_Iskander"
+        }
+      ]
+    },
+    {
+      "id": "jason-leong",
+      "name": "Jason Leong",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "malaysia",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jason_Leong"
+        }
+      ]
+    },
+    {
+      "id": "douglas-lim",
+      "name": "Douglas Lim",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "malaysia",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Douglas_Lim"
+        }
+      ]
+    },
+    {
+      "id": "nigel-ng",
+      "name": "Nigel Ng",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "malaysia",
+        "standup"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nigel_Ng"
+        }
+      ]
+    },
+    {
+      "id": "rishi-budhrani",
+      "name": "Rishi Budhrani",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "singapore",
+        "standup"
+      ],
+      "notability": 2,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rishi_Budhrani"
+        }
+      ]
+    },
+    {
+      "id": "marcus-chin",
+      "name": "Marcus Chin",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "singapore",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marcus_Chin"
+        }
+      ]
+    },
+    {
+      "id": "irene-ang",
+      "name": "Irene Ang",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "singapore",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Irene_Ang"
+        }
+      ]
+    },
+    {
+      "id": "michelle-chong",
+      "name": "Michelle Chong",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "singapore",
+        "tv",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michelle_Chong"
+        }
+      ]
     }
   ],
   "edges": [
@@ -18990,6 +19791,2881 @@
       "endYear": 2013,
       "weight": 4,
       "summary": "The Hangover co-stars",
+      "evidence": []
+    },
+    {
+      "id": "eg347",
+      "sourceId": "deven-verma",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg348",
+      "sourceId": "i-s-johar",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg349",
+      "sourceId": "jagdeep",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg350",
+      "sourceId": "jaspal-bhatti",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg351",
+      "sourceId": "johnny-walker-actor",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg352",
+      "sourceId": "kader-khan",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg353",
+      "sourceId": "keshto-mukherjee",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg354",
+      "sourceId": "kishore-kumar",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg355",
+      "sourceId": "mehmood",
+      "targetId": "johnny-lever",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India historical Bollywood comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg356",
+      "sourceId": "mehmood",
+      "targetId": "jagdeep",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Frequent Bollywood comedy co-stars in Hindi cinema",
+      "evidence": []
+    },
+    {
+      "id": "eg357",
+      "sourceId": "kapil-sharma",
+      "targetId": "sunil-grover",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 5,
+      "summary": "Co-stars on The Kapil Sharma Show",
+      "evidence": []
+    },
+    {
+      "id": "eg358",
+      "sourceId": "zakir-khan",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India modern stand-up comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg359",
+      "sourceId": "kapil-sharma",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg360",
+      "sourceId": "sunil-grover",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg361",
+      "sourceId": "tanmay-bhat",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India modern stand-up cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg362",
+      "sourceId": "munawar-faruqui",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India modern stand-up cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg363",
+      "sourceId": "papa-cj",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India modern stand-up cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg364",
+      "sourceId": "vadivelu",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg365",
+      "sourceId": "yogi-babu",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg366",
+      "sourceId": "varun-grover-writer",
+      "targetId": "vir-das",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "India comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg367",
+      "sourceId": "tanmay-bhat",
+      "targetId": "zakir-khan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Both part of the Indian stand-up comedy circuit; Amazon specials",
+      "evidence": []
+    },
+    {
+      "id": "eg368",
+      "sourceId": "sorabh-pant",
+      "targetId": "vir-das",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Both pioneered Indian stand-up comedy scene",
+      "evidence": []
+    },
+    {
+      "id": "eg369",
+      "sourceId": "vasu-primlani",
+      "targetId": "vir-das",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Both pioneered Indian stand-up comedy scene",
+      "evidence": []
+    },
+    {
+      "id": "eg370",
+      "sourceId": "german-moreno",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg371",
+      "sourceId": "don-pepot",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg372",
+      "sourceId": "elizabeth-ramsey",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg373",
+      "sourceId": "larry-silva",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg374",
+      "sourceId": "ateng-actor",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg375",
+      "sourceId": "dono",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg376",
+      "sourceId": "tukul-arwana",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg377",
+      "sourceId": "indra-birowo",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg378",
+      "sourceId": "denny-cagur",
+      "targetId": "dolphy",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg379",
+      "sourceId": "harith-iskander",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg380",
+      "sourceId": "jason-leong",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg381",
+      "sourceId": "douglas-lim",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg382",
+      "sourceId": "nigel-ng",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg383",
+      "sourceId": "hannan-azlan",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg384",
+      "sourceId": "rishi-budhrani",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg385",
+      "sourceId": "marcus-chin",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg386",
+      "sourceId": "irene-ang",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg387",
+      "sourceId": "michelle-chong",
+      "targetId": "ronny-chieng",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "SE Asia modern comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg388",
+      "sourceId": "harith-iskander",
+      "targetId": "douglas-lim",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Malaysian stand-up comedy scene co-founders; frequent co-performers",
+      "evidence": []
+    },
+    {
+      "id": "eg389",
+      "sourceId": "harith-iskander",
+      "targetId": "nigel-ng",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Malaysian comedians; Uncle Roger's predecessor on the world stage",
+      "evidence": []
+    },
+    {
+      "id": "eg390",
+      "sourceId": "irene-ang",
+      "targetId": "michelle-chong",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Both Singapore comedy actresses in local TV industry",
+      "evidence": []
+    },
+    {
+      "id": "eg391",
+      "sourceId": "groucho",
+      "targetId": "chaplin",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg392",
+      "sourceId": "harpo",
+      "targetId": "chaplin",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg393",
+      "sourceId": "chico",
+      "targetId": "chaplin",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg394",
+      "sourceId": "ball",
+      "targetId": "chaplin",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg395",
+      "sourceId": "hope",
+      "targetId": "chaplin",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg396",
+      "sourceId": "bruce",
+      "targetId": "chaplin",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World historical comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg397",
+      "sourceId": "mulaney",
+      "targetId": "chappelle",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World modern top comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg398",
+      "sourceId": "wong",
+      "targetId": "chappelle",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World modern top comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg399",
+      "sourceId": "trevor-noah",
+      "targetId": "chappelle",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World modern top comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg400",
+      "sourceId": "ricky-gervais",
+      "targetId": "chappelle",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World modern top comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg401",
+      "sourceId": "hannah-gadsby",
+      "targetId": "chappelle",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World modern top comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg402",
+      "sourceId": "joe-rogan",
+      "targetId": "chappelle",
+      "type": "troupe",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "World modern top comedy cohort",
+      "evidence": []
+    },
+    {
+      "id": "eg403",
+      "sourceId": "vir-das",
+      "targetId": "trevor-noah",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Both Netflix-era international comics; mutual appearances",
+      "evidence": []
+    },
+    {
+      "id": "eg404",
+      "sourceId": "ronny-chieng",
+      "targetId": "trevor-noah",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Ronny was Daily Show correspondent under Noah",
+      "evidence": []
+    },
+    {
+      "id": "erd405",
+      "sourceId": "bill-burr",
+      "targetId": "jim-gaffigan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Reddit: co-mentioned in 2+ posts (e.g. \"How long did it take you to learn how to tell a story at a show?\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/Standup/comments/1r5hz0n/how_long_did_it_take_you_to_learn_how_to_tell_a/"
+        }
+      ]
+    },
+    {
+      "id": "erd406",
+      "sourceId": "bert-kreischer",
+      "targetId": "bill-burr",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Reddit: co-mentioned in 2+ posts (e.g. \"[Serious] Ever Wanted to Know What It Takes to Be Successful in Comedy? Now Is Y...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/k0mybh/serious_ever_wanted_to_know_what_it_takes_to_be/"
+        }
+      ]
+    },
+    {
+      "id": "erd407",
+      "sourceId": "rock",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd408",
+      "sourceId": "ricky-gervais",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd409",
+      "sourceId": "jordan-peele",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd410",
+      "sourceId": "david-spade",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd411",
+      "sourceId": "bruce",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd412",
+      "sourceId": "leslie-jones",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd413",
+      "sourceId": "chaplin",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd414",
+      "sourceId": "tracy-morgan",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd415",
+      "sourceId": "murphy",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd416",
+      "sourceId": "maya-rudolph",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd417",
+      "sourceId": "martin",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd418",
+      "sourceId": "hope",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd419",
+      "sourceId": "pryor",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd420",
+      "sourceId": "ball",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd421",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd422",
+      "sourceId": "carlin",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd423",
+      "sourceId": "ricky-gervais",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd424",
+      "sourceId": "jordan-peele",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd425",
+      "sourceId": "david-spade",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd426",
+      "sourceId": "bruce",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd427",
+      "sourceId": "leslie-jones",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd428",
+      "sourceId": "chaplin",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd429",
+      "sourceId": "rock",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd430",
+      "sourceId": "maya-rudolph",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd431",
+      "sourceId": "hope",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd432",
+      "sourceId": "ball",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd433",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "rock",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd434",
+      "sourceId": "jordan-peele",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd435",
+      "sourceId": "david-spade",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd436",
+      "sourceId": "bruce",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd437",
+      "sourceId": "leslie-jones",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd438",
+      "sourceId": "chaplin",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd439",
+      "sourceId": "ricky-gervais",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd440",
+      "sourceId": "murphy",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd441",
+      "sourceId": "maya-rudolph",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd442",
+      "sourceId": "martin",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd443",
+      "sourceId": "hope",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd444",
+      "sourceId": "pryor",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd445",
+      "sourceId": "ball",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd446",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd447",
+      "sourceId": "carlin",
+      "targetId": "ricky-gervais",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd448",
+      "sourceId": "david-spade",
+      "targetId": "jordan-peele",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd449",
+      "sourceId": "bruce",
+      "targetId": "jordan-peele",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd450",
+      "sourceId": "jordan-peele",
+      "targetId": "leslie-jones",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd451",
+      "sourceId": "chaplin",
+      "targetId": "jordan-peele",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd452",
+      "sourceId": "jordan-peele",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd453",
+      "sourceId": "jordan-peele",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd454",
+      "sourceId": "jordan-peele",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd455",
+      "sourceId": "jordan-peele",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd456",
+      "sourceId": "hope",
+      "targetId": "jordan-peele",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd457",
+      "sourceId": "jordan-peele",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd458",
+      "sourceId": "ball",
+      "targetId": "jordan-peele",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd459",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "jordan-peele",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd460",
+      "sourceId": "carlin",
+      "targetId": "jordan-peele",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd461",
+      "sourceId": "bruce",
+      "targetId": "david-spade",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd462",
+      "sourceId": "david-spade",
+      "targetId": "leslie-jones",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd463",
+      "sourceId": "chaplin",
+      "targetId": "david-spade",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd464",
+      "sourceId": "david-spade",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd465",
+      "sourceId": "david-spade",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd466",
+      "sourceId": "david-spade",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd467",
+      "sourceId": "david-spade",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd468",
+      "sourceId": "david-spade",
+      "targetId": "hope",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd469",
+      "sourceId": "david-spade",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd470",
+      "sourceId": "ball",
+      "targetId": "david-spade",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd471",
+      "sourceId": "david-spade",
+      "targetId": "jason-mantzoukas",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd472",
+      "sourceId": "carlin",
+      "targetId": "david-spade",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd473",
+      "sourceId": "bruce",
+      "targetId": "leslie-jones",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd474",
+      "sourceId": "bruce",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd475",
+      "sourceId": "bruce",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd476",
+      "sourceId": "bruce",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd477",
+      "sourceId": "bruce",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd478",
+      "sourceId": "bruce",
+      "targetId": "hope",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd479",
+      "sourceId": "ball",
+      "targetId": "bruce",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd480",
+      "sourceId": "bruce",
+      "targetId": "jason-mantzoukas",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd481",
+      "sourceId": "chaplin",
+      "targetId": "leslie-jones",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd482",
+      "sourceId": "leslie-jones",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd483",
+      "sourceId": "leslie-jones",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd484",
+      "sourceId": "leslie-jones",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd485",
+      "sourceId": "leslie-jones",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd486",
+      "sourceId": "hope",
+      "targetId": "leslie-jones",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd487",
+      "sourceId": "leslie-jones",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd488",
+      "sourceId": "ball",
+      "targetId": "leslie-jones",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd489",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "leslie-jones",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd490",
+      "sourceId": "carlin",
+      "targetId": "leslie-jones",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd491",
+      "sourceId": "chaplin",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd492",
+      "sourceId": "chaplin",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd493",
+      "sourceId": "chaplin",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd494",
+      "sourceId": "chaplin",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd495",
+      "sourceId": "chaplin",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd496",
+      "sourceId": "chaplin",
+      "targetId": "jason-mantzoukas",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd497",
+      "sourceId": "carlin",
+      "targetId": "chaplin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd498",
+      "sourceId": "murphy",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd499",
+      "sourceId": "maya-rudolph",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd500",
+      "sourceId": "martin",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd501",
+      "sourceId": "hope",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd502",
+      "sourceId": "pryor",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd503",
+      "sourceId": "ball",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd504",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd505",
+      "sourceId": "carlin",
+      "targetId": "tracy-morgan",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd506",
+      "sourceId": "maya-rudolph",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd507",
+      "sourceId": "martin",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Reddit: co-mentioned in 2+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd508",
+      "sourceId": "hope",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd509",
+      "sourceId": "ball",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd510",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd511",
+      "sourceId": "carlin",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Reddit: co-mentioned in 2+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd512",
+      "sourceId": "martin",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd513",
+      "sourceId": "hope",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd514",
+      "sourceId": "maya-rudolph",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd515",
+      "sourceId": "ball",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd516",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd517",
+      "sourceId": "carlin",
+      "targetId": "maya-rudolph",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd518",
+      "sourceId": "hope",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd519",
+      "sourceId": "martin",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Reddit: co-mentioned in 2+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd520",
+      "sourceId": "ball",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd521",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd522",
+      "sourceId": "carlin",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Reddit: co-mentioned in 2+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd523",
+      "sourceId": "hope",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd524",
+      "sourceId": "hope",
+      "targetId": "jason-mantzoukas",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd525",
+      "sourceId": "carlin",
+      "targetId": "hope",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd526",
+      "sourceId": "ball",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd527",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd528",
+      "sourceId": "ball",
+      "targetId": "jason-mantzoukas",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd529",
+      "sourceId": "ball",
+      "targetId": "carlin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd530",
+      "sourceId": "carlin",
+      "targetId": "jason-mantzoukas",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"I spent seven months researching the comic influences and inspirations of 458 di...\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/bp0k0h/i_spent_seven_months_researching_the_comic/"
+        }
+      ]
+    },
+    {
+      "id": "erd531",
+      "sourceId": "david-cross",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "erd532",
+      "sourceId": "marc-maron",
+      "targetId": "pryor",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "erd533",
+      "sourceId": "carlin",
+      "targetId": "david-cross",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "erd534",
+      "sourceId": "david-cross",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "erd535",
+      "sourceId": "david-cross",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "erd536",
+      "sourceId": "david-cross",
+      "targetId": "marc-maron",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "erd537",
+      "sourceId": "carlin",
+      "targetId": "marc-maron",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "erd538",
+      "sourceId": "marc-maron",
+      "targetId": "murphy",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "erd539",
+      "sourceId": "marc-maron",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 1,
+      "summary": "Reddit: co-mentioned in 1+ posts (e.g. \"Louis CK email about Barry Crimmins Special and Kevin Meaney\")",
+      "evidence": [
+        {
+          "label": "Reddit",
+          "url": "https://reddit.com/r/StandUpComedy/comments/591pgq/louis_ck_email_about_barry_crimmins_special_and/"
+        }
+      ]
+    },
+    {
+      "id": "ens540",
+      "sourceId": "kristen-wiig",
+      "targetId": "seth-meyers",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 3,
+      "summary": "News: co-mentioned in Vulture Comedy (4+ contexts)",
+      "evidence": []
+    },
+    {
+      "id": "ens541",
+      "sourceId": "bill-burr",
+      "targetId": "marc-maron",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "News: co-mentioned in Laugh Button (2+ contexts)",
+      "evidence": []
+    },
+    {
+      "id": "ens542",
+      "sourceId": "judd-apatow",
+      "targetId": "maria-bamford",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 3,
+      "summary": "News: co-mentioned in Vulture Comedy (4+ contexts)",
+      "evidence": []
+    },
+    {
+      "id": "ens543",
+      "sourceId": "mike-myers",
+      "targetId": "seth-meyers",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "News: co-mentioned in Vulture Comedy (2+ contexts)",
+      "evidence": []
+    },
+    {
+      "id": "ens544",
+      "sourceId": "chelsea-handler",
+      "targetId": "nikki-glaser",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 3,
+      "summary": "News: co-mentioned in Vulture Comedy (5+ contexts)",
+      "evidence": []
+    },
+    {
+      "id": "ens545",
+      "sourceId": "ricky-gervais",
+      "targetId": "wanda-sykes",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 3,
+      "summary": "News: co-mentioned in Vulture Comedy (5+ contexts)",
+      "evidence": []
+    },
+    {
+      "id": "ens546",
+      "sourceId": "chevy-chase",
+      "targetId": "kumail-nanjiani",
+      "type": "collaboration",
+      "startYear": null,
+      "endYear": null,
+      "weight": 2,
+      "summary": "News: co-mentioned in Vulture Comedy (2+ contexts)",
       "evidence": []
     }
   ]

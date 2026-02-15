@@ -195,6 +195,28 @@
         flex-direction: column;
         gap: 14px;
     }
+    @media (max-width: 768px) {
+        .details-panel {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            width: 100%;
+            min-width: 100%;
+            max-height: 60vh;
+            height: auto;
+            border-left: none;
+            border-top: 1px solid var(--border);
+            border-radius: 16px 16px 0 0;
+            z-index: 900;
+            transform: translateY(100%);
+            transition: transform 0.25s ease;
+            box-shadow: 0 -4px 20px rgba(0, 0, 0, 0.3);
+        }
+        .details-panel.open {
+            transform: translateY(0);
+        }
+    }
     .panel-header {
         display: flex;
         justify-content: space-between;

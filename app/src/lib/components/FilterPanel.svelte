@@ -17,6 +17,11 @@
     } from "$lib/stores";
 
     const allTags = Object.keys(TAG_COLORS);
+    let showPanel = false;
+
+    function togglePanel() {
+        showPanel = !showPanel;
+    }
 
     function toggleEdgeType(t: EdgeType) {
         enabledEdgeTypes.update((s) => {
@@ -50,7 +55,38 @@
     }
 </script>
 
-<aside class="filter-panel" aria-label="Filters">
+<button
+    class="mobile-toggle"
+    on:click={togglePanel}
+    aria-label="Toggle filters"
+>
+    <svg
+        width="20"
+        height="20"
+        viewBox="0 0 24 24"
+        fill="none"
+        stroke="currentColor"
+        stroke-width="2"
+    >
+        {#if showPanel}
+            <path d="M18 6L6 18M6 6l12 12" />
+        {:else}
+            <path d="M4 6h16M4 12h16M4 18h16" />
+        {/if}
+    </svg>
+    <span class="toggle-badge">{$nodeStats.nodeCount}</span>
+</button>
+
+{#if showPanel}
+    <!-- svelte-ignore a11y-click-events-have-key-events -->
+    <div
+        class="mobile-backdrop"
+        on:click={togglePanel}
+        role="presentation"
+    ></div>
+{/if}
+
+<aside class="filter-panel" class:open={showPanel} aria-label="Filters">
     <div class="panel-header">
         <h2>Filters</h2>
         <button
@@ -156,6 +192,62 @@
 </aside>
 
 <style>
+    .mobile-toggle {
+        display: none;
+        position: fixed;
+        bottom: 20px;
+        left: 20px;
+        z-index: 1000;
+        width: 48px;
+        height: 48px;
+        border-radius: 50%;
+        border: 1px solid var(--border);
+        background: var(--bg-panel);
+        color: var(--text-primary);
+        cursor: pointer;
+        align-items: center;
+        justify-content: center;
+        box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+        transition: all 0.2s;
+    }
+    .mobile-toggle:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 24px rgba(0, 0, 0, 0.4);
+    }
+    .toggle-badge {
+        display: none;
+    }
+    .mobile-backdrop {
+        display: none;
+    }
+
+    @media (max-width: 768px) {
+        .mobile-toggle {
+            display: flex;
+        }
+        .toggle-badge {
+            display: block;
+            position: absolute;
+            top: -4px;
+            right: -4px;
+            background: var(--color-brand-500, #8b5cf6);
+            color: #fff;
+            font-size: 9px;
+            font-weight: 700;
+            padding: 2px 5px;
+            border-radius: 10px;
+            min-width: 18px;
+            text-align: center;
+        }
+        .mobile-backdrop {
+            display: block;
+            position: fixed;
+            inset: 0;
+            background: rgba(0, 0, 0, 0.5);
+            z-index: 998;
+        }
+    }
+
     .filter-panel {
         width: 260px;
         min-width: 260px;
@@ -167,6 +259,22 @@
         display: flex;
         flex-direction: column;
         gap: 16px;
+    }
+
+    @media (max-width: 768px) {
+        .filter-panel {
+            position: fixed;
+            top: 56px;
+            left: 0;
+            bottom: 0;
+            z-index: 999;
+            transform: translateX(-100%);
+            transition: transform 0.25s ease;
+            box-shadow: 4px 0 20px rgba(0, 0, 0, 0.3);
+        }
+        .filter-panel.open {
+            transform: translateX(0);
+        }
     }
     .panel-header {
         display: flex;

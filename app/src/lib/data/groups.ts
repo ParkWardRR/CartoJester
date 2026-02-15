@@ -170,5 +170,77 @@ export const COMEDY_GROUPS: ComedyGroup[] = [
         memberIds: ['jimmy-carr', 'dara-o-briain', 'david-mitchell', 'lee-mack', 'katherine-ryan', 'richard-ayoade', 'noel-fielding', 'robert-webb', 'james-acaster', 'romesh-ranganathan', 'nish-kumar', 'frankie-boyle', 'sarah-millican', 'jack-whitehall', 'rob-brydon', 'aisling-bea', 'bill-bailey', 'mo-gilligan'],
         color: '#e879f9',
         icon: '🇬🇧'
+    },
+    {
+        id: 'india-historical',
+        name: 'India: Bollywood Comedy Legends',
+        era: '1930–2000',
+        yearStart: 1930,
+        yearEnd: 2000,
+        description: 'The foundational comedians of Indian cinema who defined humor in Bollywood and regional films. From Kishore Kumar\'s musical comedy to Johnny Lever\'s slapstick genius, they made comedy a vital part of the Indian film industry.',
+        characteristics: ['Bollywood films', 'Physical comedy', 'Musical humor', 'Hindi cinema', 'Regional comedy'],
+        memberIds: ['johnny-lever', 'kishore-kumar', 'deven-verma', 'i-s-johar', 'jagdeep', 'jaspal-bhatti', 'johnny-walker-actor', 'kader-khan', 'keshto-mukherjee', 'mehmood'],
+        color: '#f59e0b',
+        icon: '🇮🇳'
+    },
+    {
+        id: 'india-modern',
+        name: 'India: Modern Stand-Up Wave',
+        era: '2010–present',
+        yearStart: 2010,
+        yearEnd: 2025,
+        description: 'The explosion of Indian stand-up comedy, driven by YouTube, Amazon Prime, and Netflix. This generation brought Indian comedy to global audiences, from Vir Das\'s Netflix specials to Kapil Sharma\'s TV empire.',
+        characteristics: ['Netflix specials', 'YouTube first', 'Hindi/English bilingual', 'TV comedy shows', 'Digital content'],
+        memberIds: ['vir-das', 'zakir-khan', 'kapil-sharma', 'sunil-grover', 'tanmay-bhat', 'munawar-faruqui', 'papa-cj', 'vadivelu', 'yogi-babu', 'varun-grover-writer', 'sorabh-pant', 'vasu-primlani'],
+        color: '#fb923c',
+        icon: '🎬'
+    },
+    {
+        id: 'seasia-historical',
+        name: 'SE Asia: Comedy Pioneers',
+        era: '1950–2010',
+        yearStart: 1950,
+        yearEnd: 2010,
+        description: 'The founding comedians of Southeast Asian entertainment, from the Philippines\' King of Comedy Dolphy to Indonesia\'s beloved Dono. They built comedy traditions across the archipelagos.',
+        characteristics: ['Filipino comedy films', 'Indonesian variety TV', 'Physical humor', 'Regional languages', 'Cultural comedy'],
+        memberIds: ['dolphy', 'german-moreno', 'don-pepot', 'elizabeth-ramsey', 'larry-silva', 'ateng-actor', 'dono', 'tukul-arwana', 'indra-birowo', 'denny-cagur'],
+        color: '#22d3ee',
+        icon: '🌏'
+    },
+    {
+        id: 'seasia-modern',
+        name: 'SE Asia: Modern Comedy Circuit',
+        era: '2010–present',
+        yearStart: 2010,
+        yearEnd: 2025,
+        description: 'The new wave of SE Asian comedians breaking through globally. From Malaysia\'s Harith Iskander and Uncle Roger (Nigel Ng) to Singapore\'s rising stars, they\'re putting Asian comedy on the world map.',
+        characteristics: ['English-language standup', 'YouTube/social media', 'International touring', 'Cultural bridge comedy', 'Netflix presence'],
+        memberIds: ['ronny-chieng', 'harith-iskander', 'jason-leong', 'douglas-lim', 'nigel-ng', 'hannan-azlan', 'rishi-budhrani', 'marcus-chin', 'irene-ang', 'michelle-chong'],
+        color: '#a78bfa',
+        icon: '🌴'
+    },
+    {
+        id: 'world-top10-historical',
+        name: 'World: All-Time Comedy Legends',
+        era: '1895–1980',
+        yearStart: 1895,
+        yearEnd: 1980,
+        description: 'The most influential comedians in world history. From Chaplin\'s silent genius to Lenny Bruce\'s revolutionary honesty, these are the artists who defined comedy as an art form.',
+        characteristics: ['Cultural icons', 'Genre-defining', 'Global influence', 'Cross-generational', 'Comedy pioneers'],
+        memberIds: ['chaplin', 'keaton', 'laurel', 'hardy', 'groucho', 'harpo', 'chico', 'ball', 'hope', 'bruce'],
+        color: '#fbbf24',
+        icon: '🏆'
+    },
+    {
+        id: 'world-top10-current',
+        name: 'World: Top Current Comics',
+        era: '2000–present',
+        yearStart: 2000,
+        yearEnd: 2025,
+        description: 'The biggest names in comedy today. Arena tours, Netflix deals, cultural impact — these comedians are defining what comedy means in the 21st century.',
+        characteristics: ['Arena tours', 'Netflix specials', 'Cultural influence', 'Social media era', 'Global audiences'],
+        memberIds: ['chappelle', 'hart', 'rock', 'bill-burr', 'mulaney', 'wong', 'trevor-noah', 'ricky-gervais', 'hannah-gadsby', 'joe-rogan'],
+        color: '#f472b6',
+        icon: '⭐'
     }
 ];
