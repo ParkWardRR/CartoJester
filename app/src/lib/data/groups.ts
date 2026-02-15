@@ -71,7 +71,7 @@ export const COMEDY_GROUPS: ComedyGroup[] = [
         yearEnd: 1995,
         description: 'Saturday Night Live and its satellite shows launched careers and defined a generation. These performers turned sketch comedy and improv into Hollywood gold.',
         characteristics: ['Sketch comedy', 'Improv roots', 'Character work', 'Political satire', 'Ensemble energy'],
-        memberIds: ['belushi', 'aykroyd', 'murray', 'murphy', 'martin-short', 'chevy-chase', 'gilda-radner', 'mike-myers', 'dana-carvey', 'phil-hartman', 'chris-farley', 'norm-macdonald', 'david-spade', 'molly-shannon', 'will-ferrell'],
+        memberIds: ['belushi', 'aykroyd', 'murray', 'murphy', 'martin-short', 'chevy-chase', 'gilda-radner', 'mike-myers', 'dana-carvey', 'phil-hartman', 'chris-farley', 'norm-macdonald', 'david-spade', 'molly-shannon', 'will-ferrell', 'tracy-morgan', 'jimmy-fallon', 'seth-meyers', 'bill-hader', 'kristen-wiig', 'andy-samberg', 'kate-mckinnon', 'maya-rudolph', 'kenan-thompson', 'fred-armisen', 'pete-davidson', 'bowen-yang', 'colin-jost', 'michael-che', 'cecily-strong', 'jason-sudeikis', 'will-forte', 'leslie-jones'],
         color: '#3b82f6',
         icon: '📡'
     },
@@ -83,7 +83,7 @@ export const COMEDY_GROUPS: ComedyGroup[] = [
         yearEnd: 2000,
         description: 'The comedy club explosion and HBO specials era turned stand-up into mainstream entertainment. Arena tours, comedy albums, and TV deals became the new gold standard.',
         characteristics: ['Comedy clubs', 'HBO specials', 'Observational humor', 'Arena tours', 'Late-night crossover'],
-        memberIds: ['seinfeld', 'rock', 'martin', 'williams', 'goldberg', 'ellen', 'ray-romano', 'tim-allen', 'roseanne', 'sinbad', 'bernie-mac', 'cedric', 'steve-harvey', 'dl-hughley', 'wanda-sykes'],
+        memberIds: ['seinfeld', 'rock', 'martin', 'williams', 'goldberg', 'ellen', 'ray-romano', 'tim-allen', 'roseanne', 'sinbad', 'bernie-mac', 'cedric', 'steve-harvey', 'dl-hughley', 'wanda-sykes', 'bill-burr', 'jeff-dunham', 'jim-gaffigan', 'brian-regan', 'dane-cook', 'dave-attell', 'norm-macdonald', 'sarah-silverman', 'katt-williams', 'mitch-hedberg', 'larry-david'],
         color: '#f97316',
         icon: '🎤'
     },
@@ -95,7 +95,7 @@ export const COMEDY_GROUPS: ComedyGroup[] = [
         yearEnd: 2015,
         description: 'A movement rejecting traditional punchline-driven comedy for quirky, meta, absurdist, and anti-humor styles. Often associated with indie venues and podcasts.',
         characteristics: ['Anti-humor', 'Meta-comedy', 'Absurdism', 'Indie venues', 'Podcast culture'],
-        memberIds: ['zach-galifianakis', 'maria-bamford', 'patton-oswalt', 'bo-burnham', 'reggie-watts', 'tig-notaro', 'hannibal-buress', 'eric-andre', 'demetri-martin'],
+        memberIds: ['zach-galifianakis', 'maria-bamford', 'patton-oswalt', 'bo-burnham', 'reggie-watts', 'tig-notaro', 'hannibal-buress', 'eric-andre', 'demetri-martin', 'david-cross', 'bob-odenkirk', 'doug-stanhope', 'kate-berlant', 'aparna-nancherla', 'nathan-fielder', 'stewart-lee'],
         color: '#14b8a6',
         icon: '🌀'
     },
@@ -107,7 +107,7 @@ export const COMEDY_GROUPS: ComedyGroup[] = [
         yearEnd: 2020,
         description: 'The improv pipeline from Second City, UCB, iO, and Groundlings fed TV writers rooms and created a new comedy aesthetic built on "yes, and" collaboration.',
         characteristics: ['Yes, and', 'Long-form improv', 'Writers room pipeline', 'Ensemble focus', 'Character work'],
-        memberIds: ['fey', 'poehler', 'will-ferrell', 'kate-mckinnon', 'keegan-michael-key', 'jordan-peele', 'abbi-jacobson', 'ilana-glazer', 'nick-kroll', 'jason-sudeikis'],
+        memberIds: ['fey', 'poehler', 'will-ferrell', 'kate-mckinnon', 'keegan-michael-key', 'jordan-peele', 'abbi-jacobson', 'ilana-glazer', 'nick-kroll', 'jason-sudeikis', 'aubrey-plaza', 'jason-mantzoukas', 'paul-f-tompkins', 'lauren-lapkus'],
         color: '#06b6d4',
         icon: '🎪'
     },
@@ -119,7 +119,7 @@ export const COMEDY_GROUPS: ComedyGroup[] = [
         yearEnd: 2020,
         description: 'The original Kings of Comedy tour and its spiritual successors brought Black comedy to arena-scale audiences and launched multiple media empires.',
         characteristics: ['Arena comedy', 'Cultural commentary', 'Media empires', 'Netflix specials', 'Tour economics'],
-        memberIds: ['rock', 'hart', 'chappelle', 'bernie-mac', 'cedric', 'steve-harvey', 'dl-hughley', 'tiffany-haddish', 'wanda-sykes'],
+        memberIds: ['rock', 'hart', 'chappelle', 'bernie-mac', 'cedric', 'steve-harvey', 'dl-hughley', 'tiffany-haddish', 'wanda-sykes', 'mike-epps', 'katt-williams', 'ali-siddiq', 'deon-cole'],
         color: '#eab308',
         icon: '👑'
     },
@@ -131,8 +131,44 @@ export const COMEDY_GROUPS: ComedyGroup[] = [
         yearEnd: 2025,
         description: 'Comedy specials went global via streaming. Stand-up became a worldwide phenomenon, diversifying voices and reaching massive new audiences.',
         characteristics: ['Global reach', 'Diverse voices', 'Social media crossover', 'Special-driven careers', 'International comedy'],
-        memberIds: ['mulaney', 'wong', 'bo-burnham', 'hasan-minhaj', 'trevor-noah', 'hannah-gadsby', 'nate-bargatze', 'taylor-tomlinson', 'sam-morril', 'mark-normand', 'shane-gillis', 'matt-rife', 'nikki-glaser'],
+        memberIds: ['mulaney', 'wong', 'bo-burnham', 'hasan-minhaj', 'trevor-noah', 'hannah-gadsby', 'nate-bargatze', 'taylor-tomlinson', 'sam-morril', 'mark-normand', 'shane-gillis', 'matt-rife', 'nikki-glaser', 'jerrod-carmichael', 'iliza-shlesinger', 'ronny-chieng', 'michelle-wolf', 'james-acaster', 'mo-gilligan', 'ali-siddiq'],
         color: '#ec4899',
         icon: '📱'
+    },
+    {
+        id: 'podcast-comedy',
+        name: 'Podcast Comedy Sphere',
+        era: '2009–2025',
+        yearStart: 2009,
+        yearEnd: 2025,
+        description: 'The podcast revolution created a new comedy ecosystem where long-form conversations, fan communities, and touring merged into powerful comedy brands.',
+        characteristics: ['Long-form conversation', 'Fan communities', 'Cross-promotion', 'Touring synergy', 'YouTube crossover'],
+        memberIds: ['joe-rogan', 'marc-maron', 'bill-burr', 'tom-segura', 'bert-kreischer', 'christina-p', 'theo-von', 'andrew-santino', 'bobby-lee', 'shane-gillis', 'mark-normand', 'sam-morril', 'conan-obrien', 'paul-f-tompkins', 'jason-mantzoukas', 'doug-stanhope', 'bowen-yang'],
+        color: '#10b981',
+        icon: '🎙️'
+    },
+    {
+        id: 'daily-show-political',
+        name: 'Daily Show & Political Comedy',
+        era: '1999–2025',
+        yearStart: 1999,
+        yearEnd: 2025,
+        description: 'The Daily Show became a comedy institution that launched an entire generation of political comedians and late-night hosts. Its alumni reshaped how comedy engages with politics.',
+        characteristics: ['Political satire', 'Correspondent pipeline', 'Late-night crossover', 'Institutional comedy', 'News parody'],
+        memberIds: ['jon-stewart', 'stephen-colbert', 'john-oliver', 'samantha-bee', 'trevor-noah', 'hasan-minhaj', 'larry-wilmore', 'jordan-klepper', 'ronny-chieng', 'michelle-wolf'],
+        color: '#f472b6',
+        icon: '🗳️'
+    },
+    {
+        id: 'uk-panel-shows',
+        name: 'UK Panel Show Circuit',
+        era: '2000–2025',
+        yearStart: 2000,
+        yearEnd: 2025,
+        description: 'British panel shows became a unique comedy ecosystem where wit, banter, and quick thinking created a distinctive comedy culture with its own stars and traditions.',
+        characteristics: ['Quick wit', 'Panel banter', 'Audience rapport', 'Topical humor', 'Cross-show regulars'],
+        memberIds: ['jimmy-carr', 'dara-o-briain', 'david-mitchell', 'lee-mack', 'katherine-ryan', 'richard-ayoade', 'noel-fielding', 'robert-webb', 'james-acaster', 'romesh-ranganathan', 'nish-kumar', 'frankie-boyle', 'sarah-millican', 'jack-whitehall', 'rob-brydon', 'aisling-bea', 'bill-bailey', 'mo-gilligan'],
+        color: '#e879f9',
+        icon: '🇬🇧'
     }
 ];

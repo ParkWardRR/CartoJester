@@ -61,7 +61,10 @@ export const TAG_COLORS: Record<string, string> = {
     keystone: '#78716c',
     improv: '#14b8a6',
     animation: '#f43f5e',
-    vaudeville: '#d97706'
+    vaudeville: '#d97706',
+    podcast: '#10b981',
+    panel: '#e879f9',
+    latenight: '#f472b6'
 };
 
 export const ERA_PRESETS: { label: string; start: number; end: number }[] = [

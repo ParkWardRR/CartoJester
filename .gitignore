@@ -13,6 +13,7 @@ node_modules/
 
 # Tool binaries
 tools/bunt/bunt
+tools/seedgen/seedgen
 tools/ingest/.build/
 tools/ingest/.cache/
 
