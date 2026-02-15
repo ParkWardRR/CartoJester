@@ -13480,6 +13480,894 @@
           "url": "https://en.wikipedia.org/wiki/Elise_Cavanna"
         }
       ]
+    },
+    {
+      "id": "john-c-reilly",
+      "name": "John C. Reilly",
+      "aka": [],
+      "bornYear": 1989,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_C._Reilly"
+        }
+      ]
+    },
+    {
+      "id": "rob-schneider",
+      "name": "Rob Schneider",
+      "aka": [],
+      "bornYear": 1990,
+      "diedYear": 1994,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film",
+        "snl",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rob_Schneider"
+        }
+      ]
+    },
+    {
+      "id": "kevin-james",
+      "name": "Kevin James",
+      "aka": [],
+      "bornYear": 1998,
+      "diedYear": 2007,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kevin_James"
+        }
+      ]
+    },
+    {
+      "id": "chevy-chase",
+      "name": "Chevy Chase",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chevy_Chase"
+        }
+      ]
+    },
+    {
+      "id": "molly-shannon",
+      "name": "Molly Shannon",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "tv",
+        "snl",
+        "standup",
+        "film",
+        "sketch"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Molly_Shannon"
+        }
+      ]
+    },
+    {
+      "id": "rachel-dratch",
+      "name": "Rachel Dratch",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "snl",
+        "sketch",
+        "tv",
+        "improv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Rachel_Dratch"
+        }
+      ]
+    },
+    {
+      "id": "andy-richter",
+      "name": "Andy Richter",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "podcast",
+        "latenight",
+        "tv",
+        "animation",
+        "standup",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Andy_Richter"
+        }
+      ]
+    },
+    {
+      "id": "louis-ck",
+      "name": "Louis C.K.",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Louis_C.K."
+        }
+      ]
+    },
+    {
+      "id": "brendan-schaub",
+      "name": "Brendan Schaub",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "podcast"
+      ],
+      "notability": 2,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Brendan_Schaub"
+        }
+      ]
+    },
+    {
+      "id": "bill-hicks",
+      "name": "Bill Hicks",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bill_Hicks"
+        }
+      ]
+    },
+    {
+      "id": "stephen-merchant",
+      "name": "Stephen Merchant",
+      "aka": [],
+      "bornYear": 2001,
+      "diedYear": 2003,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv",
+        "podcast"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Stephen_Merchant"
+        }
+      ]
+    },
+    {
+      "id": "karl-pilkington",
+      "name": "Karl Pilkington",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Karl_Pilkington"
+        }
+      ]
+    },
+    {
+      "id": "tim-vine",
+      "name": "Tim Vine",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tim_Vine"
+        }
+      ]
+    },
+    {
+      "id": "larry-charles",
+      "name": "Larry Charles",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Larry_Charles"
+        }
+      ]
+    },
+    {
+      "id": "randall-park",
+      "name": "Randall Park",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": 2020,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "tv",
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Randall_Park"
+        }
+      ]
+    },
+    {
+      "id": "seth-rogen",
+      "name": "Seth Rogen",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film",
+        "standup",
+        "tv"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seth_Rogen"
+        }
+      ]
+    },
+    {
+      "id": "james-franco",
+      "name": "James Franco",
+      "aka": [],
+      "bornYear": 2002,
+      "diedYear": 2007,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/James_Franco"
+        }
+      ]
+    },
+    {
+      "id": "jonah-hill",
+      "name": "Jonah Hill",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jonah_Hill"
+        }
+      ]
+    },
+    {
+      "id": "evan-goldberg",
+      "name": "Evan Goldberg",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Evan_Goldberg"
+        }
+      ]
+    },
+    {
+      "id": "abbi-jacobson",
+      "name": "Abbi Jacobson",
+      "aka": [],
+      "bornYear": 2014,
+      "diedYear": 2019,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Abbi_Jacobson"
+        }
+      ]
+    },
+    {
+      "id": "ilana-glazer",
+      "name": "Ilana Glazer",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ilana_Glazer"
+        }
+      ]
+    },
+    {
+      "id": "chelsea-peretti",
+      "name": "Chelsea Peretti",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv",
+        "snl"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chelsea_Peretti"
+        }
+      ]
+    },
+    {
+      "id": "carl-reiner",
+      "name": "Carl Reiner",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Carl_Reiner"
+        }
+      ]
+    },
+    {
+      "id": "gene-wilder",
+      "name": "Gene Wilder",
+      "aka": [],
+      "bornYear": 1967,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Gene_Wilder"
+        }
+      ]
+    },
+    {
+      "id": "bing-crosby",
+      "name": "Bing Crosby",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bing_Crosby"
+        }
+      ]
+    },
+    {
+      "id": "matt-rife",
+      "name": "Matt Rife",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "improv",
+        "sketch",
+        "film",
+        "standup"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Matt_Rife"
+        }
+      ]
+    },
+    {
+      "id": "martin-short",
+      "name": "Martin Short",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "tv",
+        "standup",
+        "film",
+        "sketch"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Martin_Short"
+        }
+      ]
+    },
+    {
+      "id": "jeff-daniels",
+      "name": "Jeff Daniels",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jeff_Daniels"
+        }
+      ]
+    },
+    {
+      "id": "sean-lock",
+      "name": "Sean Lock",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "panel"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Sean_Lock"
+        }
+      ]
+    },
+    {
+      "id": "jon-richardson",
+      "name": "Jon Richardson",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jon_Richardson"
+        }
+      ]
+    },
+    {
+      "id": "ed-gamble",
+      "name": "Ed Gamble",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "panel",
+        "tv",
+        "podcast"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ed_Gamble"
+        }
+      ]
+    },
+    {
+      "id": "bernie-mac",
+      "name": "Bernie Mac",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "tv",
+        "film"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bernie_Mac"
+        }
+      ]
+    },
+    {
+      "id": "dl-hughley",
+      "name": "D.L. Hughley",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/D.L._Hughley"
+        }
+      ]
+    },
+    {
+      "id": "joan-rivers",
+      "name": "Joan Rivers",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Joan_Rivers"
+        }
+      ]
+    },
+    {
+      "id": "phyllis-diller",
+      "name": "Phyllis Diller",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Phyllis_Diller"
+        }
+      ]
+    },
+    {
+      "id": "lily-tomlin",
+      "name": "Lily Tomlin",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "sketch"
+      ],
+      "notability": 5,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lily_Tomlin"
+        }
+      ]
+    },
+    {
+      "id": "chris-pratt",
+      "name": "Chris Pratt",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chris_Pratt"
+        }
+      ]
+    },
+    {
+      "id": "nick-offerman",
+      "name": "Nick Offerman",
+      "aka": [],
+      "bornYear": 2009,
+      "diedYear": 2015,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "standup",
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nick_Offerman"
+        }
+      ]
+    },
+    {
+      "id": "megan-mullally",
+      "name": "Megan Mullally",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film",
+        "standup",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Megan_Mullally"
+        }
+      ]
+    },
+    {
+      "id": "zach-galifianakis",
+      "name": "Zach Galifianakis",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film",
+        "standup"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Zach_Galifianakis"
+        }
+      ]
+    },
+    {
+      "id": "justin-timberlake",
+      "name": "Justin Timberlake",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Justin_Timberlake"
+        }
+      ]
+    },
+    {
+      "id": "isla-fisher",
+      "name": "Isla Fisher",
+      "aka": [],
+      "bornYear": 1994,
+      "diedYear": 1997,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "film",
+        "tv"
+      ],
+      "notability": 3,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Isla_Fisher"
+        }
+      ]
+    },
+    {
+      "id": "jane-fonda",
+      "name": "Jane Fonda",
+      "aka": [],
+      "bornYear": null,
+      "diedYear": null,
+      "activeStartYear": null,
+      "activeEndYear": null,
+      "tags": [
+        "tv",
+        "film"
+      ],
+      "notability": 4,
+      "links": [
+        {
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jane_Fonda"
+        }
+      ]
     }
   ],
   "edges": [
@@ -13494,8 +14382,8 @@
       "summary": "Iconic duo in over 100 films together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Laurel_and_Hardy",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Laurel_and_Hardy"
         }
       ]
     },
@@ -13510,8 +14398,8 @@
       "summary": "Brothers performing as the Marx Brothers act",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Marx_Brothers",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marx_Brothers"
         }
       ]
     },
@@ -13526,8 +14414,8 @@
       "summary": "Brothers performing as the Marx Brothers act",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Marx_Brothers",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marx_Brothers"
         }
       ]
     },
@@ -13542,8 +14430,8 @@
       "summary": "Brothers performing as the Marx Brothers act",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Marx_Brothers",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marx_Brothers"
         }
       ]
     },
@@ -13558,8 +14446,8 @@
       "summary": "Sennett's Keystone Studios launched Chaplin's film career",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Keystone_Studios",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Keystone_Studios"
         }
       ]
     },
@@ -13574,8 +14462,8 @@
       "summary": "Sennett's slapstick approach influenced early Keaton",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Mack_Sennett",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mack_Sennett"
         }
       ]
     },
@@ -13590,8 +14478,8 @@
       "summary": "Rival silent-era comedy kings, occasionally collaborated",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Buster_Keaton",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Buster_Keaton"
         }
       ]
     },
@@ -13606,8 +14494,8 @@
       "summary": "Competed as top silent comedy stars of the era",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Harold_Lloyd",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Harold_Lloyd"
         }
       ]
     },
@@ -13622,8 +14510,8 @@
       "summary": "Co-starred in Chaplin's Limelight (1952)",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Limelight_(1952_film)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Limelight_(1952_film)"
         }
       ]
     },
@@ -13638,8 +14526,8 @@
       "summary": "Bruce's boundary-pushing style deeply influenced Pryor's approach",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Lenny_Bruce",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lenny_Bruce"
         }
       ]
     },
@@ -13654,8 +14542,8 @@
       "summary": "Bruce inspired Carlin's transition to socially conscious comedy",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/George_Carlin",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/George_Carlin"
         }
       ]
     },
@@ -13670,8 +14558,8 @@
       "summary": "Pryor was Murphy's primary comedic influence and idol",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Eddie_Murphy",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Eddie_Murphy"
         }
       ]
     },
@@ -13686,8 +14574,8 @@
       "summary": "Pryor's fearless style influenced Williams' stand-up approach",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Robin_Williams",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Robin_Williams"
         }
       ]
     },
@@ -13702,8 +14590,8 @@
       "summary": "Pryor's social commentary deeply influenced Rock's specials",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Chris_Rock",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chris_Rock"
         }
       ]
     },
@@ -13718,8 +14606,8 @@
       "summary": "Pryor's fearless truth-telling inspired Chappelle's comedy",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle"
         }
       ]
     },
@@ -13734,8 +14622,8 @@
       "summary": "Carlin's philosophical approach shaped Rock's observational style",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Chris_Rock",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chris_Rock"
         }
       ]
     },
@@ -13750,8 +14638,8 @@
       "summary": "Murphy mentored Rock as the next generation of comedy",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Chris_Rock",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chris_Rock"
         }
       ]
     },
@@ -13766,8 +14654,8 @@
       "summary": "Both SNL alumni who co-starred and shared comedy film era",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Adam_Sandler",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Adam_Sandler"
         }
       ]
     },
@@ -13782,8 +14670,8 @@
       "summary": "Murphy's stand-up specials inspired Hart's arena comedy style",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Kevin_Hart",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kevin_Hart"
         }
       ]
     },
@@ -13798,8 +14686,8 @@
       "summary": "The Blues Brothers and SNL original cast members",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Blues_Brothers",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Blues_Brothers"
         }
       ]
     },
@@ -13814,8 +14702,8 @@
       "summary": "Both performed at Second City and early SNL",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -13830,8 +14718,8 @@
       "summary": "SNL cast members and Ghostbusters co-stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Ghostbusters",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ghostbusters"
         }
       ]
     },
@@ -13846,8 +14734,8 @@
       "summary": "Weekend Update co-anchors, SNL duo, film collaborators",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Tina_Fey",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tina_Fey"
         }
       ]
     },
@@ -13862,8 +14750,8 @@
       "summary": "Both part of the SNL early-90s cast together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -13878,8 +14766,8 @@
       "summary": "Rock's stand-up style influenced Hart's comedic approach",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Kevin_Hart",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kevin_Hart"
         }
       ]
     },
@@ -13894,8 +14782,8 @@
       "summary": "Mulaney worked as SNL writer under Fey's influence era",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/John_Mulaney",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Mulaney"
         }
       ]
     },
@@ -13910,8 +14798,8 @@
       "summary": "Comedians in Cars Getting Coffee and mutual respect",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Comedians_in_Cars_Getting_Coffee",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Comedians_in_Cars_Getting_Coffee"
         }
       ]
     },
@@ -13926,8 +14814,8 @@
       "summary": "Seinfeld's clean observational style deeply influenced Mulaney",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/John_Mulaney",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/John_Mulaney"
         }
       ]
     },
@@ -13942,8 +14830,8 @@
       "summary": "Pryor's fearless approach paved the way for Goldberg's comedy",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Whoopi_Goldberg",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Whoopi_Goldberg"
         }
       ]
     },
@@ -13958,8 +14846,8 @@
       "summary": "Both frequent SNL hosts and performers in the same comedy wave",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Steve_Martin",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Steve_Martin"
         }
       ]
     },
@@ -13974,8 +14862,8 @@
       "summary": "Co-starred in multiple films and TV appearances together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Lucille_Ball",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lucille_Ball"
         }
       ]
     },
@@ -13990,8 +14878,8 @@
       "summary": "Both major TV comedy pioneers in the golden age",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Lucille_Ball",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Lucille_Ball"
         }
       ]
     },
@@ -14006,8 +14894,8 @@
       "summary": "Friendly rivalry as top comedy acts of the mid-century",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Bob_Hope",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bob_Hope"
         }
       ]
     },
@@ -14022,8 +14910,8 @@
       "summary": "Close friends and co-hosts of Comic Relief charity specials",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Comic_Relief_(American_charity)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Comic_Relief_(American_charity)"
         }
       ]
     },
@@ -14038,8 +14926,8 @@
       "summary": "Close friends and comedic contemporaries of the late 70s wave",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Robin_Williams",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Robin_Williams"
         }
       ]
     },
@@ -14054,8 +14942,8 @@
       "summary": "The Three Stooges comedy act spanning decades",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Three_Stooges",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Three_Stooges"
         }
       ]
     },
@@ -14070,8 +14958,8 @@
       "summary": "Brothers in The Three Stooges act",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Three_Stooges",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Three_Stooges"
         }
       ]
     },
@@ -14086,8 +14974,8 @@
       "summary": "Classic Three Stooges lineup together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Three_Stooges",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Three_Stooges"
         }
       ]
     },
@@ -14102,8 +14990,8 @@
       "summary": "Competing comedy stars of 1930s Hollywood",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/W._C._Fields",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/W._C._Fields"
         }
       ]
     },
@@ -14118,8 +15006,8 @@
       "summary": "Fields' comedic timing influenced Hope's delivery style",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Bob_Hope",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bob_Hope"
         }
       ]
     },
@@ -14134,8 +15022,8 @@
       "summary": "Laurel appeared in Sennett Keystone shorts early in career",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Stan_Laurel",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Stan_Laurel"
         }
       ]
     },
@@ -14150,8 +15038,8 @@
       "summary": "Both hosted SNL multiple times; Sandler's influence on new SNL comedy",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Adam_Sandler",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Adam_Sandler"
         }
       ]
     },
@@ -14166,8 +15054,8 @@
       "summary": "Contemporary stand-up peers who have collaborated and shared stages",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Ali_Wong",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ali_Wong"
         }
       ]
     },
@@ -14182,8 +15070,8 @@
       "summary": "Close friends and frequent collaborators, co-touring together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle"
         }
       ]
     },
@@ -14198,8 +15086,8 @@
       "summary": "Contemporary stand-up collaborators sharing stages",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Kevin_Hart",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kevin_Hart"
         }
       ]
     },
@@ -14214,8 +15102,8 @@
       "summary": "Both connected through the Upright Citizens Brigade improv community",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Upright_Citizens_Brigade",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Upright_Citizens_Brigade"
         }
       ]
     },
@@ -14230,8 +15118,8 @@
       "summary": "Martin's stadium-comedy era influenced Seinfeld's observational approach",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Steve_Martin",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Steve_Martin"
         }
       ]
     },
@@ -14246,8 +15134,8 @@
       "summary": "Carlin's social commentary influenced Chappelle's material",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle"
         }
       ]
     },
@@ -14262,8 +15150,8 @@
       "summary": "Ball's trailblazing as a woman in comedy inspired Wong's career",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Ali_Wong",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ali_Wong"
         }
       ]
     },
@@ -14278,8 +15166,8 @@
       "summary": "Rock has been a mentor figure to Hart's stand-up career growth",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Kevin_Hart",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Kevin_Hart"
         }
       ]
     },
@@ -14294,8 +15182,8 @@
       "summary": "Both part of Fred Karno's comedy troupe before film careers",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Fred_Karno",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fred_Karno"
         }
       ]
     },
@@ -14310,8 +15198,8 @@
       "summary": "Competing silent-era physical comedy stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Buster_Keaton",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Buster_Keaton"
         }
       ]
     },
@@ -14326,8 +15214,8 @@
       "summary": "Overlapping SNL cast members 1995-97",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14342,8 +15230,8 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14358,8 +15246,8 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14374,8 +15262,8 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14390,8 +15278,8 @@
       "summary": "Weekend Update co-anchors on SNL",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14406,8 +15294,8 @@
       "summary": "Fey mentored Meyers as head writer at SNL",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14422,8 +15310,8 @@
       "summary": "30 Rock co-stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/30_Rock",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/30_Rock"
         }
       ]
     },
@@ -14438,8 +15326,8 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14454,8 +15342,8 @@
       "summary": "Core SNL cast together, frequent sketch partners",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14470,8 +15358,8 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14486,8 +15374,8 @@
       "summary": "SNL cast \u0026 Portlandia/IFC comedy sphere",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14502,8 +15390,8 @@
       "summary": "Overlapping SNL cast",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14518,8 +15406,8 @@
       "summary": "SNL cast together; Bridesmaids co-stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Bridesmaids_(2011_film)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bridesmaids_(2011_film)"
         }
       ]
     },
@@ -14534,8 +15422,8 @@
       "summary": "Core SNL cast together for decade",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14550,8 +15438,8 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14566,8 +15454,8 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14582,8 +15470,8 @@
       "summary": "Weekend Update co-anchors on SNL",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14598,8 +15486,8 @@
       "summary": "SNL cast together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14614,8 +15502,8 @@
       "summary": "Close friends; co-toured and co-starred together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Pete_Davidson",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Pete_Davidson"
         }
       ]
     },
@@ -14630,8 +15518,8 @@
       "summary": "Longest-tenured SNL cast overlap",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -14646,8 +15534,8 @@
       "summary": "Wayne's World duo on SNL and film",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Wayne's_World_(film)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Wayne's_World_(film)"
         }
       ]
     },
@@ -14662,8 +15550,8 @@
       "summary": "Colbert was Daily Show correspondent; Stewart produced Colbert Report",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Daily_Show",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Daily_Show"
         }
       ]
     },
@@ -14678,8 +15566,8 @@
       "summary": "Oliver was Daily Show correspondent, guest-hosted",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Daily_Show",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Daily_Show"
         }
       ]
     },
@@ -14694,8 +15582,8 @@
       "summary": "Bee was longest-serving Daily Show correspondent",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Daily_Show",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Daily_Show"
         }
       ]
     },
@@ -14710,8 +15598,8 @@
       "summary": "Stewart selected Noah as Daily Show successor",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Trevor_Noah",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trevor_Noah"
         }
       ]
     },
@@ -14726,8 +15614,8 @@
       "summary": "Minhaj was Daily Show correspondent",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Hasan_Minhaj",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Hasan_Minhaj"
         }
       ]
     },
@@ -14742,8 +15630,8 @@
       "summary": "Wilmore was Daily Show contributor; Stewart produced Nightly Show",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Larry_Wilmore",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Larry_Wilmore"
         }
       ]
     },
@@ -14758,8 +15646,8 @@
       "summary": "Klepper as Daily Show correspondent",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Jordan_Klepper",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Jordan_Klepper"
         }
       ]
     },
@@ -14774,8 +15662,8 @@
       "summary": "Chieng as Daily Show correspondent",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Ronny_Chieng",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ronny_Chieng"
         }
       ]
     },
@@ -14790,8 +15678,8 @@
       "summary": "Daily Show correspondents together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Daily_Show",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Daily_Show"
         }
       ]
     },
@@ -14806,8 +15694,8 @@
       "summary": "Daily Show correspondents together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Daily_Show",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Daily_Show"
         }
       ]
     },
@@ -14822,8 +15710,8 @@
       "summary": "Frequent podcast guests on each other's shows",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience"
         }
       ]
     },
@@ -14838,8 +15726,8 @@
       "summary": "Close friends; frequent podcast collaborators",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience"
         }
       ]
     },
@@ -14854,8 +15742,8 @@
       "summary": "Regular podcast guest; Rogan helped boost Von's career",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience"
         }
       ]
     },
@@ -14870,8 +15758,8 @@
       "summary": "Frequent podcast guests; standup contemporaries",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Joe_Rogan_Experience"
         }
       ]
     },
@@ -14886,8 +15774,8 @@
       "summary": "Competing podcast pioneers; occasional friction",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Marc_Maron",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marc_Maron"
         }
       ]
     },
@@ -14902,8 +15790,8 @@
       "summary": "Rogan supported Gillis; frequent podcast guest",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Shane_Gillis",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shane_Gillis"
         }
       ]
     },
@@ -14918,8 +15806,8 @@
       "summary": "Co-hosts of 2 Bears 1 Cave podcast",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/2_Bears,_1_Cave",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/2_Bears,_1_Cave"
         }
       ]
     },
@@ -14934,8 +15822,8 @@
       "summary": "Married; co-host Your Mom's House podcast",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Your_Mom's_House",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Your_Mom's_House"
         }
       ]
     },
@@ -14950,8 +15838,8 @@
       "summary": "Frequent podcast/touring collaborators",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Bert_Kreischer",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bert_Kreischer"
         }
       ]
     },
@@ -14966,8 +15854,8 @@
       "summary": "Best friends; co-tour and co-create content",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Mark_Normand",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mark_Normand"
         }
       ]
     },
@@ -14982,8 +15870,8 @@
       "summary": "Close friends; co-headline and podcast together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Shane_Gillis",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shane_Gillis"
         }
       ]
     },
@@ -14998,8 +15886,8 @@
       "summary": "Co-hosts of Bad Friends podcast",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Bad_Friends",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bad_Friends"
         }
       ]
     },
@@ -15014,8 +15902,8 @@
       "summary": "Long-time standup friends; mutual podcast appearances",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Bill_Burr",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bill_Burr"
         }
       ]
     },
@@ -15030,8 +15918,8 @@
       "summary": "NYC standup contemporaries; former couple",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Marc_Maron",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Marc_Maron"
         }
       ]
     },
@@ -15046,8 +15934,8 @@
       "summary": "Alt-comedy peers; WTF podcast guests",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/WTF_with_Marc_Maron",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/WTF_with_Marc_Maron"
         }
       ]
     },
@@ -15062,8 +15950,8 @@
       "summary": "Co-created and co-wrote Chappelle's Show",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Chappelle's_Show",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Chappelle's_Show"
         }
       ]
     },
@@ -15078,8 +15966,8 @@
       "summary": "Standup contemporaries; mutual respect",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle"
         }
       ]
     },
@@ -15094,8 +15982,8 @@
       "summary": "Co-toured and appeared together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Dave_Chappelle"
         }
       ]
     },
@@ -15110,8 +15998,8 @@
       "summary": "Key \u0026 Peele sketch show duo",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Key_%26_Peele",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Key_%26_Peele"
         }
       ]
     },
@@ -15126,8 +16014,8 @@
       "summary": "UK comedy contemporaries; shared comedy sphere",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Ricky_Gervais",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ricky_Gervais"
         }
       ]
     },
@@ -15142,8 +16030,8 @@
       "summary": "Peep Show duo; Mitchell and Webb Look",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Peep_Show_(TV_series)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Peep_Show_(TV_series)"
         }
       ]
     },
@@ -15158,8 +16046,8 @@
       "summary": "Co-captains on Would I Lie to You",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(TV_series)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Would_I_Lie_to_You%3F_(TV_series)"
         }
       ]
     },
@@ -15174,8 +16062,8 @@
       "summary": "The IT Crowd \u0026 Mighty Boosh comedy sphere",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_IT_Crowd",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_IT_Crowd"
         }
       ]
     },
@@ -15190,8 +16078,8 @@
       "summary": "UK panel show circuit regulars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/8_Out_of_10_Cats",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/8_Out_of_10_Cats"
         }
       ]
     },
@@ -15206,8 +16094,8 @@
       "summary": "8 Out of 10 Cats and panel show circuit",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/8_Out_of_10_Cats",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/8_Out_of_10_Cats"
         }
       ]
     },
@@ -15222,8 +16110,8 @@
       "summary": "UK panel show regulars together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/8_Out_of_10_Cats",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/8_Out_of_10_Cats"
         }
       ]
     },
@@ -15238,8 +16126,8 @@
       "summary": "UK standup contemporaries; frequent panel show appearances together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/James_Acaster",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/James_Acaster"
         }
       ]
     },
@@ -15254,8 +16142,8 @@
       "summary": "Mock the Week and panel show regulars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Mock_the_Week",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mock_the_Week"
         }
       ]
     },
@@ -15270,8 +16158,8 @@
       "summary": "Host and regular on Mock the Week",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Mock_the_Week",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mock_the_Week"
         }
       ]
     },
@@ -15286,8 +16174,8 @@
       "summary": "The Trip film/series duo",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Trip_(2010_film)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Trip_(2010_film)"
         }
       ]
     },
@@ -15302,8 +16190,8 @@
       "summary": "Apatow produced Anchorman and Talladega Nights",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Judd_Apatow",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Judd_Apatow"
         }
       ]
     },
@@ -15318,8 +16206,8 @@
       "summary": "Funny People starring Sandler, directed by Apatow",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Funny_People",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Funny_People"
         }
       ]
     },
@@ -15334,8 +16222,8 @@
       "summary": "Directed Trainwreck starring Schumer",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Trainwreck_(film)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Trainwreck_(film)"
         }
       ]
     },
@@ -15350,8 +16238,8 @@
       "summary": "Co-wrote and directed King of Staten Island",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_King_of_Staten_Island",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_King_of_Staten_Island"
         }
       ]
     },
@@ -15366,8 +16254,8 @@
       "summary": "Produced The Big Sick",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Big_Sick",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Big_Sick"
         }
       ]
     },
@@ -15382,8 +16270,8 @@
       "summary": "Co-created Seinfeld",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Seinfeld",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Seinfeld"
         }
       ]
     },
@@ -15398,8 +16286,8 @@
       "summary": "JB Smoove as Leon on Curb Your Enthusiasm",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Curb_Your_Enthusiasm"
         }
       ]
     },
@@ -15414,8 +16302,8 @@
       "summary": "Samberg was vocal Conan supporter during late-night conflict",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Conan_O'Brien",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Conan_O'Brien"
         }
       ]
     },
@@ -15430,8 +16318,8 @@
       "summary": "Frequent late-night guest; comedy peers",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Conan_O'Brien",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Conan_O'Brien"
         }
       ]
     },
@@ -15446,8 +16334,8 @@
       "summary": "Competing late-night hosts",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Late-night_wars",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Late-night_wars"
         }
       ]
     },
@@ -15462,8 +16350,8 @@
       "summary": "Desus \u0026 Mero podcast and TV show duo",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Desus_%26_Mero",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Desus_%26_Mero"
         }
       ]
     },
@@ -15478,8 +16366,8 @@
       "summary": "Silverman paved way for Schumer's provocative style",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Amy_Schumer",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Amy_Schumer"
         }
       ]
     },
@@ -15494,8 +16382,8 @@
       "summary": "Co-created Documentary Now!",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Documentary_Now!",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Documentary_Now!"
         }
       ]
     },
@@ -15510,8 +16398,8 @@
       "summary": "Contemporary standup peers; comedy touring circuit",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Aziz_Ansari",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Aziz_Ansari"
         }
       ]
     },
@@ -15526,8 +16414,8 @@
       "summary": "Oh, Hello co-creators and performers; close friends",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Oh,_Hello",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Oh,_Hello"
         }
       ]
     },
@@ -15542,8 +16430,8 @@
       "summary": "Glover wrote for 30 Rock under Fey",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/30_Rock",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/30_Rock"
         }
       ]
     },
@@ -15558,8 +16446,8 @@
       "summary": "Parks and Recreation co-stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Parks_and_Recreation",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Parks_and_Recreation"
         }
       ]
     },
@@ -15574,8 +16462,8 @@
       "summary": "Parks and Recreation co-stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Parks_and_Recreation",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Parks_and_Recreation"
         }
       ]
     },
@@ -15590,8 +16478,8 @@
       "summary": "UCB improv community connections",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Upright_Citizens_Brigade",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Upright_Citizens_Brigade"
         }
       ]
     },
@@ -15606,8 +16494,8 @@
       "summary": "Mr. Show co-creators",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Mr._Show_with_Bob_and_David",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mr._Show_with_Bob_and_David"
         }
       ]
     },
@@ -15622,8 +16510,8 @@
       "summary": "SNL and film duo; Tommy Boy, Black Sheep",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Tommy_Boy",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Tommy_Boy"
         }
       ]
     },
@@ -15638,8 +16526,8 @@
       "summary": "Close friends and SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -15654,8 +16542,8 @@
       "summary": "SNL cast members together in early 90s",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -15670,8 +16558,8 @@
       "summary": "Shrek franchise co-stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Shrek",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Shrek"
         }
       ]
     },
@@ -15686,8 +16574,8 @@
       "summary": "SNL cast members together; close friends",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -15702,8 +16590,8 @@
       "summary": "Legendary recurring late-night guest appearances",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Norm_Macdonald",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Norm_Macdonald"
         }
       ]
     },
@@ -15718,8 +16606,8 @@
       "summary": "SNL cast members; appeared in Sandler films",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -15734,8 +16622,8 @@
       "summary": "Fleabag co-stars; Waller-Bridge wrote for Colman",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Fleabag",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Fleabag"
         }
       ]
     },
@@ -15750,8 +16638,8 @@
       "summary": "UK comedy contemporaries; mutual supporters",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Phoebe_Waller-Bridge",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Phoebe_Waller-Bridge"
         }
       ]
     },
@@ -15766,8 +16654,8 @@
       "summary": "The Office (US) connect; Gervais created UK original",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Office_(American_TV_series)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Office_(American_TV_series)"
         }
       ]
     },
@@ -15782,8 +16670,8 @@
       "summary": "Contemporary special-driven comedians; mutual admirers",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Bo_Burnham",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bo_Burnham"
         }
       ]
     },
@@ -15798,8 +16686,8 @@
       "summary": "Standup contemporaries; Chris Rock Show writers",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Chris_Rock_Show",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Chris_Rock_Show"
         }
       ]
     },
@@ -15814,8 +16702,8 @@
       "summary": "The Original Kings of Comedy tour together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Original_Kings_of_Comedy",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Original_Kings_of_Comedy"
         }
       ]
     },
@@ -15830,8 +16718,8 @@
       "summary": "Black comedy circuit; Kings of Comedy era",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_Original_Kings_of_Comedy",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_Original_Kings_of_Comedy"
         }
       ]
     },
@@ -15846,8 +16734,8 @@
       "summary": "Comedy touring circuit contemporaries",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Katt_Williams",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Katt_Williams"
         }
       ]
     },
@@ -15862,8 +16750,8 @@
       "summary": "NYC standup veterans; Bumping Mics co-tour",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Bumping_Mics",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Bumping_Mics"
         }
       ]
     },
@@ -15878,8 +16766,8 @@
       "summary": "Comedy Central roast circuit",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Comedy_Central_Roast",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Comedy_Central_Roast"
         }
       ]
     },
@@ -15894,8 +16782,8 @@
       "summary": "Gaffigan's clean observational style influenced Bargatze",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Nate_Bargatze",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Nate_Bargatze"
         }
       ]
     },
@@ -15910,8 +16798,8 @@
       "summary": "NYC standup circuit contemporaries; close friends",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Mitch_Hedberg",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Mitch_Hedberg"
         }
       ]
     },
@@ -15926,8 +16814,8 @@
       "summary": "UK comedy contemporaries; A League of Their Own",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/A_League_of_Their_Own_(panel_show)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/A_League_of_Their_Own_(panel_show)"
         }
       ]
     },
@@ -15942,8 +16830,8 @@
       "summary": "Black Books co-stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Black_Books",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Black_Books"
         }
       ]
     },
@@ -15958,8 +16846,8 @@
       "summary": "Atkinson's character comedy influenced Gervais's approach",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Ricky_Gervais",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ricky_Gervais"
         }
       ]
     },
@@ -15974,8 +16862,8 @@
       "summary": "Contrasting comedy philosophies; UK comedy spectrum",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Stewart_Lee",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Stewart_Lee"
         }
       ]
     },
@@ -15990,8 +16878,8 @@
       "summary": "SNL cast; Ghostbusters (2016) co-stars",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Ghostbusters_(2016_film)",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Ghostbusters_(2016_film)"
         }
       ]
     },
@@ -16006,8 +16894,8 @@
       "summary": "Wolf wrote for The Daily Show",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Michelle_Wolf",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Michelle_Wolf"
         }
       ]
     },
@@ -16022,8 +16910,8 @@
       "summary": "The League co-stars; How Did This Get Made podcast",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/The_League",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/The_League"
         }
       ]
     },
@@ -16038,8 +16926,8 @@
       "summary": "Alt-comedy/podcast pioneers together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Paul_F._Tompkins",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Paul_F._Tompkins"
         }
       ]
     },
@@ -16054,8 +16942,8 @@
       "summary": "UCB improv and podcast community",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Comedy_Bang!_Bang!",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Comedy_Bang!_Bang!"
         }
       ]
     },
@@ -16070,8 +16958,8 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
     },
@@ -16086,10 +16974,2023 @@
       "summary": "SNL cast members together",
       "evidence": [
         {
-          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live",
-          "label": "Wikipedia"
+          "label": "Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Saturday_Night_Live"
         }
       ]
+    },
+    {
+      "id": "eg164",
+      "sourceId": "hardy",
+      "targetId": "chaplin",
+      "type": "troupe",
+      "startYear": 1895,
+      "endYear": 1930,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"silent-pioneers\\\" (Silent Era Pioneers).",
+      "evidence": []
+    },
+    {
+      "id": "eg165",
+      "sourceId": "jack-benny",
+      "targetId": "groucho",
+      "type": "troupe",
+      "startYear": 1900,
+      "endYear": 1950,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"vaudeville-stars\\\" (Vaudeville \u0026 Stage Comics).",
+      "evidence": []
+    },
+    {
+      "id": "eg166",
+      "sourceId": "three-stooges-moe",
+      "targetId": "groucho",
+      "type": "troupe",
+      "startYear": 1900,
+      "endYear": 1950,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"vaudeville-stars\\\" (Vaudeville \u0026 Stage Comics).",
+      "evidence": []
+    },
+    {
+      "id": "eg167",
+      "sourceId": "three-stooges-larry",
+      "targetId": "groucho",
+      "type": "troupe",
+      "startYear": 1900,
+      "endYear": 1950,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"vaudeville-stars\\\" (Vaudeville \u0026 Stage Comics).",
+      "evidence": []
+    },
+    {
+      "id": "eg168",
+      "sourceId": "three-stooges-curly",
+      "targetId": "groucho",
+      "type": "troupe",
+      "startYear": 1900,
+      "endYear": 1950,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"vaudeville-stars\\\" (Vaudeville \u0026 Stage Comics).",
+      "evidence": []
+    },
+    {
+      "id": "eg169",
+      "sourceId": "sid-caesar",
+      "targetId": "ball",
+      "type": "troupe",
+      "startYear": 1950,
+      "endYear": 1970,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"golden-age-tv\\\" (Golden Age of Television).",
+      "evidence": []
+    },
+    {
+      "id": "eg170",
+      "sourceId": "jack-benny",
+      "targetId": "ball",
+      "type": "troupe",
+      "startYear": 1950,
+      "endYear": 1970,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"golden-age-tv\\\" (Golden Age of Television).",
+      "evidence": []
+    },
+    {
+      "id": "eg171",
+      "sourceId": "carlin",
+      "targetId": "pryor",
+      "type": "troupe",
+      "startYear": 1960,
+      "endYear": 1980,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"counterculture-rebels\\\" (Counterculture Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg172",
+      "sourceId": "belushi",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg173",
+      "sourceId": "aykroyd",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg174",
+      "sourceId": "murray",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg175",
+      "sourceId": "murphy",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg176",
+      "sourceId": "mike-myers",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg177",
+      "sourceId": "dana-carvey",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg178",
+      "sourceId": "chris-farley",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg179",
+      "sourceId": "norm-macdonald",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg180",
+      "sourceId": "david-spade",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg181",
+      "sourceId": "will-ferrell",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg182",
+      "sourceId": "tracy-morgan",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg183",
+      "sourceId": "jimmy-fallon",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg184",
+      "sourceId": "seth-meyers",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg185",
+      "sourceId": "maya-rudolph",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg186",
+      "sourceId": "kenan-thompson",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg187",
+      "sourceId": "pete-davidson",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg188",
+      "sourceId": "bowen-yang",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg189",
+      "sourceId": "colin-jost",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg190",
+      "sourceId": "michael-che",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg191",
+      "sourceId": "cecily-strong",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg192",
+      "sourceId": "jason-sudeikis",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg193",
+      "sourceId": "will-forte",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg194",
+      "sourceId": "leslie-jones",
+      "targetId": "bill-hader",
+      "type": "troupe",
+      "startYear": 1975,
+      "endYear": 1995,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"snl-original\\\" (SNL \u0026 Sketch Revolution).",
+      "evidence": []
+    },
+    {
+      "id": "eg195",
+      "sourceId": "martin",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg196",
+      "sourceId": "williams",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg197",
+      "sourceId": "goldberg",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg198",
+      "sourceId": "tim-allen",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg199",
+      "sourceId": "steve-harvey",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg200",
+      "sourceId": "bill-burr",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg201",
+      "sourceId": "jeff-dunham",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg202",
+      "sourceId": "jim-gaffigan",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg203",
+      "sourceId": "brian-regan",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg204",
+      "sourceId": "dane-cook",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg205",
+      "sourceId": "dave-attell",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg206",
+      "sourceId": "norm-macdonald",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg207",
+      "sourceId": "sarah-silverman",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg208",
+      "sourceId": "katt-williams",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg209",
+      "sourceId": "mitch-hedberg",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg210",
+      "sourceId": "larry-david",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 1980,
+      "endYear": 2000,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"standup-boom\\\" (80s/90s Stand-Up Boom).",
+      "evidence": []
+    },
+    {
+      "id": "eg211",
+      "sourceId": "maria-bamford",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg212",
+      "sourceId": "patton-oswalt",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg213",
+      "sourceId": "bo-burnham",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg214",
+      "sourceId": "tig-notaro",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg215",
+      "sourceId": "hannibal-buress",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg216",
+      "sourceId": "eric-andre",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg217",
+      "sourceId": "demetri-martin",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg218",
+      "sourceId": "doug-stanhope",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg219",
+      "sourceId": "kate-berlant",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg220",
+      "sourceId": "aparna-nancherla",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg221",
+      "sourceId": "nathan-fielder",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg222",
+      "sourceId": "stewart-lee",
+      "targetId": "bob-odenkirk",
+      "type": "troupe",
+      "startYear": 1995,
+      "endYear": 2015,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"alt-comedy\\\" (Alternative Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg223",
+      "sourceId": "will-ferrell",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg224",
+      "sourceId": "kate-mckinnon",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg225",
+      "sourceId": "keegan-michael-key",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg226",
+      "sourceId": "jordan-peele",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg227",
+      "sourceId": "nick-kroll",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg228",
+      "sourceId": "jason-sudeikis",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg229",
+      "sourceId": "aubrey-plaza",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg230",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg231",
+      "sourceId": "paul-f-tompkins",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg232",
+      "sourceId": "lauren-lapkus",
+      "targetId": "fey",
+      "type": "troupe",
+      "startYear": 1990,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"improv-ucb\\\" (Improv \u0026 UCB Movement).",
+      "evidence": []
+    },
+    {
+      "id": "eg233",
+      "sourceId": "tiffany-haddish",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"kings-of-comedy\\\" (Kings \u0026 Queens of Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg234",
+      "sourceId": "mike-epps",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"kings-of-comedy\\\" (Kings \u0026 Queens of Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg235",
+      "sourceId": "ali-siddiq",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"kings-of-comedy\\\" (Kings \u0026 Queens of Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg236",
+      "sourceId": "deon-cole",
+      "targetId": "rock",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2020,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"kings-of-comedy\\\" (Kings \u0026 Queens of Comedy).",
+      "evidence": []
+    },
+    {
+      "id": "eg237",
+      "sourceId": "bo-burnham",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg238",
+      "sourceId": "hasan-minhaj",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg239",
+      "sourceId": "trevor-noah",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg240",
+      "sourceId": "hannah-gadsby",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg241",
+      "sourceId": "nate-bargatze",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg242",
+      "sourceId": "taylor-tomlinson",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg243",
+      "sourceId": "sam-morril",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg244",
+      "sourceId": "mark-normand",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg245",
+      "sourceId": "shane-gillis",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg246",
+      "sourceId": "nikki-glaser",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg247",
+      "sourceId": "jerrod-carmichael",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg248",
+      "sourceId": "iliza-shlesinger",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg249",
+      "sourceId": "ronny-chieng",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg250",
+      "sourceId": "michelle-wolf",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg251",
+      "sourceId": "james-acaster",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg252",
+      "sourceId": "mo-gilligan",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg253",
+      "sourceId": "ali-siddiq",
+      "targetId": "mulaney",
+      "type": "troupe",
+      "startYear": 2015,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"netflix-era\\\" (Streaming \u0026 Netflix Era).",
+      "evidence": []
+    },
+    {
+      "id": "eg254",
+      "sourceId": "christina-p",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg255",
+      "sourceId": "andrew-santino",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg256",
+      "sourceId": "bobby-lee",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg257",
+      "sourceId": "mark-normand",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg258",
+      "sourceId": "sam-morril",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg259",
+      "sourceId": "conan-obrien",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg260",
+      "sourceId": "paul-f-tompkins",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg261",
+      "sourceId": "jason-mantzoukas",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg262",
+      "sourceId": "doug-stanhope",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg263",
+      "sourceId": "bowen-yang",
+      "targetId": "joe-rogan",
+      "type": "troupe",
+      "startYear": 2009,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"podcast-comedy\\\" (Podcast Comedy Sphere).",
+      "evidence": []
+    },
+    {
+      "id": "eg264",
+      "sourceId": "david-mitchell",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg265",
+      "sourceId": "lee-mack",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg266",
+      "sourceId": "richard-ayoade",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg267",
+      "sourceId": "noel-fielding",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg268",
+      "sourceId": "robert-webb",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg269",
+      "sourceId": "james-acaster",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg270",
+      "sourceId": "nish-kumar",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg271",
+      "sourceId": "frankie-boyle",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg272",
+      "sourceId": "sarah-millican",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg273",
+      "sourceId": "jack-whitehall",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg274",
+      "sourceId": "rob-brydon",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg275",
+      "sourceId": "aisling-bea",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg276",
+      "sourceId": "bill-bailey",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "eg277",
+      "sourceId": "mo-gilligan",
+      "targetId": "jimmy-carr",
+      "type": "troupe",
+      "startYear": 2000,
+      "endYear": 2025,
+      "weight": 1,
+      "summary": "Derived: both listed in group \\\"uk-panel-shows\\\" (UK Panel Show Circuit).",
+      "evidence": []
+    },
+    {
+      "id": "er278",
+      "sourceId": "sandler",
+      "targetId": "david-spade",
+      "type": "collaboration",
+      "startYear": 1990,
+      "endYear": null,
+      "weight": 3,
+      "summary": "SNL castmates and recurring film collaborators",
+      "evidence": []
+    },
+    {
+      "id": "er279",
+      "sourceId": "conan-obrien",
+      "targetId": "jon-stewart",
+      "type": "collaboration",
+      "startYear": 1999,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Fellow late-night hosts, mutual respect and crossover appearances",
+      "evidence": []
+    },
+    {
+      "id": "er280",
+      "sourceId": "stephen-colbert",
+      "targetId": "steve-carell",
+      "type": "collaboration",
+      "startYear": 1997,
+      "endYear": 2005,
+      "weight": 3,
+      "summary": "Both emerged from Daily Show; Second City alumni",
+      "evidence": []
+    },
+    {
+      "id": "er281",
+      "sourceId": "seinfeld",
+      "targetId": "bill-burr",
+      "type": "collaboration",
+      "startYear": 2012,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Comedians in Cars Getting Coffee; mutual respect among stand-ups",
+      "evidence": []
+    },
+    {
+      "id": "er282",
+      "sourceId": "nate-bargatze",
+      "targetId": "shane-gillis",
+      "type": "collaboration",
+      "startYear": 2020,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Fellow touring stand-ups with Netflix specials; mutual admiration",
+      "evidence": []
+    },
+    {
+      "id": "er283",
+      "sourceId": "fred-armisen",
+      "targetId": "carrie-brownstein",
+      "type": "collaboration",
+      "startYear": 2011,
+      "endYear": 2018,
+      "weight": 5,
+      "summary": "Co-created Portlandia",
+      "evidence": []
+    },
+    {
+      "id": "er284",
+      "sourceId": "gabriel-iglesias",
+      "targetId": "jeff-dunham",
+      "type": "collaboration",
+      "startYear": 2010,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Fellow arena-level touring comedians; both in comedy specials circuit",
+      "evidence": []
+    },
+    {
+      "id": "er285",
+      "sourceId": "whitney-cummings",
+      "targetId": "chelsea-handler",
+      "type": "collaboration",
+      "startYear": 2012,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Both had late-night/talk shows; frequent collaborators",
+      "evidence": []
+    },
+    {
+      "id": "er286",
+      "sourceId": "russell-brand",
+      "targetId": "noel-fielding",
+      "type": "collaboration",
+      "startYear": 2006,
+      "endYear": null,
+      "weight": 2,
+      "summary": "British comedy scene collaborators and friends",
+      "evidence": []
+    },
+    {
+      "id": "er287",
+      "sourceId": "trevor-noah",
+      "targetId": "hasan-minhaj",
+      "type": "collaboration",
+      "startYear": 2015,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Both Daily Show correspondents who got their own shows",
+      "evidence": []
+    },
+    {
+      "id": "er288",
+      "sourceId": "ball",
+      "targetId": "carol-burnett",
+      "type": "mentor",
+      "startYear": 1960,
+      "endYear": 1989,
+      "weight": 4,
+      "summary": "Ball mentored Burnett; Burnett cited Ball as primary inspiration",
+      "evidence": []
+    },
+    {
+      "id": "er289",
+      "sourceId": "taylor-tomlinson",
+      "targetId": "nate-bargatze",
+      "type": "collaboration",
+      "startYear": 2020,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Fellow touring Netflix-era stand-ups",
+      "evidence": []
+    },
+    {
+      "id": "er290",
+      "sourceId": "iliza-shlesinger",
+      "targetId": "whitney-cummings",
+      "type": "collaboration",
+      "startYear": 2015,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Fellow female stand-ups in Netflix era; podcast appearances",
+      "evidence": []
+    },
+    {
+      "id": "er291",
+      "sourceId": "jim-carrey",
+      "targetId": "williams",
+      "type": "collaboration",
+      "startYear": 1990,
+      "endYear": 2014,
+      "weight": 3,
+      "summary": "Fellow physical-comedy stand-ups; mutual admiration",
+      "evidence": []
+    },
+    {
+      "id": "er292",
+      "sourceId": "dara-o-briain",
+      "targetId": "ed-byrne",
+      "type": "collaboration",
+      "startYear": 2005,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Mock the Week regulars and Irish comedy touring circuit",
+      "evidence": []
+    },
+    {
+      "id": "er293",
+      "sourceId": "noel-fielding",
+      "targetId": "julian-barratt",
+      "type": "collaboration",
+      "startYear": 2004,
+      "endYear": 2009,
+      "weight": 5,
+      "summary": "The Mighty Boosh duo",
+      "evidence": []
+    },
+    {
+      "id": "er294",
+      "sourceId": "romesh-ranganathan",
+      "targetId": "rob-beckett",
+      "type": "collaboration",
+      "startYear": 2019,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Co-present Rob \u0026 Romesh Vs...",
+      "evidence": []
+    },
+    {
+      "id": "er295",
+      "sourceId": "sarah-millican",
+      "targetId": "katherine-ryan",
+      "type": "collaboration",
+      "startYear": 2012,
+      "endYear": null,
+      "weight": 2,
+      "summary": "UK panel show circuit regulars; 8 Out of 10 Cats appearances",
+      "evidence": []
+    },
+    {
+      "id": "er296",
+      "sourceId": "chappelle",
+      "targetId": "ali-siddiq",
+      "type": "collaboration",
+      "startYear": 2017,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Siddiq opened for Chappelle tours",
+      "evidence": []
+    },
+    {
+      "id": "er297",
+      "sourceId": "hart",
+      "targetId": "tiffany-haddish",
+      "type": "collaboration",
+      "startYear": 2018,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Night School co-stars; Hart helped boost Haddish's career",
+      "evidence": []
+    },
+    {
+      "id": "er298",
+      "sourceId": "jo-koy",
+      "targetId": "gabriel-iglesias",
+      "type": "collaboration",
+      "startYear": 2015,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Fellow touring arena comedians with Netflix specials",
+      "evidence": []
+    },
+    {
+      "id": "er299",
+      "sourceId": "russell-peters",
+      "targetId": "gabriel-iglesias",
+      "type": "collaboration",
+      "startYear": 2010,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Both arena-level touring comics with cultural comedy",
+      "evidence": []
+    },
+    {
+      "id": "er300",
+      "sourceId": "chelsea-handler",
+      "targetId": "sarah-silverman",
+      "type": "collaboration",
+      "startYear": 2007,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Fellow provocative female comics; competitive peers",
+      "evidence": []
+    },
+    {
+      "id": "er301",
+      "sourceId": "chelsea-handler",
+      "targetId": "jo-koy",
+      "type": "family",
+      "startYear": 2021,
+      "endYear": 2022,
+      "weight": 3,
+      "summary": "Former romantic partners; remained collaborators",
+      "evidence": []
+    },
+    {
+      "id": "er302",
+      "sourceId": "daniel-tosh",
+      "targetId": "jeff-ross",
+      "type": "collaboration",
+      "startYear": 2010,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Comedy Central peers; roast circuit",
+      "evidence": []
+    },
+    {
+      "id": "er303",
+      "sourceId": "jim-jefferies",
+      "targetId": "joe-rogan",
+      "type": "collaboration",
+      "startYear": 2014,
+      "endYear": null,
+      "weight": 2,
+      "summary": "Fellow stand-ups; frequent podcast appearances",
+      "evidence": []
+    },
+    {
+      "id": "er304",
+      "sourceId": "will-ferrell",
+      "targetId": "john-c-reilly",
+      "type": "collaboration",
+      "startYear": 2006,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Frequent film partners: Talladega Nights, Step Brothers, Holmes \u0026 Watson",
+      "evidence": []
+    },
+    {
+      "id": "er305",
+      "sourceId": "sandler",
+      "targetId": "rob-schneider",
+      "type": "collaboration",
+      "startYear": 1990,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Long-time friends and frequent film collaborators since SNL",
+      "evidence": []
+    },
+    {
+      "id": "er306",
+      "sourceId": "sandler",
+      "targetId": "kevin-james",
+      "type": "collaboration",
+      "startYear": 2007,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Frequent Happy Madison collaborators",
+      "evidence": []
+    },
+    {
+      "id": "er307",
+      "sourceId": "chevy-chase",
+      "targetId": "murray",
+      "type": "rivalry",
+      "startYear": 1977,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Famous behind-the-scenes feud at SNL",
+      "evidence": []
+    },
+    {
+      "id": "er308",
+      "sourceId": "will-ferrell",
+      "targetId": "molly-shannon",
+      "type": "collaboration",
+      "startYear": 1995,
+      "endYear": 2002,
+      "weight": 3,
+      "summary": "SNL castmates and frequent scene partners",
+      "evidence": []
+    },
+    {
+      "id": "er309",
+      "sourceId": "fey",
+      "targetId": "rachel-dratch",
+      "type": "collaboration",
+      "startYear": 1994,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Second City and SNL collaborators, longtime friends",
+      "evidence": []
+    },
+    {
+      "id": "er310",
+      "sourceId": "conan-obrien",
+      "targetId": "andy-richter",
+      "type": "collaboration",
+      "startYear": 1993,
+      "endYear": null,
+      "weight": 5,
+      "summary": "Conan's sidekick and collaborative partner for decades",
+      "evidence": []
+    },
+    {
+      "id": "er311",
+      "sourceId": "jimmy-fallon",
+      "targetId": "justin-timberlake",
+      "type": "collaboration",
+      "startYear": 2002,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Frequent SNL and Tonight Show sketch partners",
+      "evidence": []
+    },
+    {
+      "id": "er312",
+      "sourceId": "marc-maron",
+      "targetId": "louis-ck",
+      "type": "collaboration",
+      "startYear": 2010,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Famous WTF podcast episode; longtime comedy peers",
+      "evidence": []
+    },
+    {
+      "id": "er313",
+      "sourceId": "theo-von",
+      "targetId": "brendan-schaub",
+      "type": "collaboration",
+      "startYear": 2018,
+      "endYear": 2022,
+      "weight": 4,
+      "summary": "Co-hosted King and the Sting podcast",
+      "evidence": []
+    },
+    {
+      "id": "er314",
+      "sourceId": "carlin",
+      "targetId": "bill-hicks",
+      "type": "influence",
+      "startYear": 1985,
+      "endYear": 1994,
+      "weight": 4,
+      "summary": "Carlin's fearless social criticism inspired Hicks",
+      "evidence": []
+    },
+    {
+      "id": "er315",
+      "sourceId": "carlin",
+      "targetId": "louis-ck",
+      "type": "influence",
+      "startYear": 1990,
+      "endYear": 2008,
+      "weight": 4,
+      "summary": "Carlin's work-ethic of discarding material annually inspired Louis CK",
+      "evidence": []
+    },
+    {
+      "id": "er316",
+      "sourceId": "ricky-gervais",
+      "targetId": "stephen-merchant",
+      "type": "collaboration",
+      "startYear": 2001,
+      "endYear": 2007,
+      "weight": 5,
+      "summary": "Co-created The Office (UK) and Extras",
+      "evidence": []
+    },
+    {
+      "id": "er317",
+      "sourceId": "ricky-gervais",
+      "targetId": "karl-pilkington",
+      "type": "collaboration",
+      "startYear": 2001,
+      "endYear": 2012,
+      "weight": 4,
+      "summary": "Radio show and An Idiot Abroad collaboration",
+      "evidence": []
+    },
+    {
+      "id": "er318",
+      "sourceId": "lee-mack",
+      "targetId": "tim-vine",
+      "type": "collaboration",
+      "startYear": 2006,
+      "endYear": null,
+      "weight": 3,
+      "summary": "Not Going Out and frequent panel show interactions",
+      "evidence": []
+    },
+    {
+      "id": "er319",
+      "sourceId": "sacha-baron-cohen",
+      "targetId": "larry-charles",
+      "type": "collaboration",
+      "startYear": 2006,
+      "endYear": 2012,
+      "weight": 4,
+      "summary": "Director of Borat, Bruno, and The Dictator",
+      "evidence": []
+    },
+    {
+      "id": "er320",
+      "sourceId": "wong",
+      "targetId": "randall-park",
+      "type": "collaboration",
+      "startYear": 2019,
+      "endYear": 2019,
+      "weight": 3,
+      "summary": "Co-starred in Always Be My Maybe",
+      "evidence": []
+    },
+    {
+      "id": "er321",
+      "sourceId": "sacha-baron-cohen",
+      "targetId": "isla-fisher",
+      "type": "family",
+      "startYear": 2010,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Married couple",
+      "evidence": []
+    },
+    {
+      "id": "er322",
+      "sourceId": "seth-rogen",
+      "targetId": "james-franco",
+      "type": "collaboration",
+      "startYear": 1999,
+      "endYear": 2017,
+      "weight": 5,
+      "summary": "Frequent film partners: Pineapple Express, The Interview, Freaks and Geeks",
+      "evidence": []
+    },
+    {
+      "id": "er323",
+      "sourceId": "seth-rogen",
+      "targetId": "jonah-hill",
+      "type": "collaboration",
+      "startYear": 2007,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Superbad co-stars and Judd Apatow film regulars",
+      "evidence": []
+    },
+    {
+      "id": "er324",
+      "sourceId": "seth-rogen",
+      "targetId": "evan-goldberg",
+      "type": "collaboration",
+      "startYear": 2001,
+      "endYear": null,
+      "weight": 5,
+      "summary": "Writing partners since high school; co-wrote Superbad, This Is the End",
+      "evidence": []
+    },
+    {
+      "id": "er325",
+      "sourceId": "abbi-jacobson",
+      "targetId": "ilana-glazer",
+      "type": "collaboration",
+      "startYear": 2014,
+      "endYear": 2019,
+      "weight": 5,
+      "summary": "Co-created and starred in Broad City",
+      "evidence": []
+    },
+    {
+      "id": "er326",
+      "sourceId": "chelsea-peretti",
+      "targetId": "jordan-peele",
+      "type": "family",
+      "startYear": 2016,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Married couple",
+      "evidence": []
+    },
+    {
+      "id": "er327",
+      "sourceId": "mel-brooks",
+      "targetId": "carl-reiner",
+      "type": "collaboration",
+      "startYear": 1950,
+      "endYear": 2020,
+      "weight": 5,
+      "summary": "2000 Year Old Man routine; lifeling friends for 70+ years",
+      "evidence": []
+    },
+    {
+      "id": "er328",
+      "sourceId": "mel-brooks",
+      "targetId": "gene-wilder",
+      "type": "collaboration",
+      "startYear": 1967,
+      "endYear": 1974,
+      "weight": 5,
+      "summary": "Director-star duo: The Producers, Young Frankenstein, Blazing Saddles",
+      "evidence": []
+    },
+    {
+      "id": "er329",
+      "sourceId": "hope",
+      "targetId": "bing-crosby",
+      "type": "collaboration",
+      "startYear": 1940,
+      "endYear": 1962,
+      "weight": 5,
+      "summary": "Road to... film series partnership",
+      "evidence": []
+    },
+    {
+      "id": "er330",
+      "sourceId": "matt-rife",
+      "targetId": "nick-cannon",
+      "type": "collaboration",
+      "startYear": 2015,
+      "endYear": 2018,
+      "weight": 2,
+      "summary": "Wild 'N Out castmates early in career",
+      "evidence": []
+    },
+    {
+      "id": "er331",
+      "sourceId": "martin-short",
+      "targetId": "martin",
+      "type": "collaboration",
+      "startYear": 1986,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Three Amigos alumni; Father of the Bride and Only Murders co-stars",
+      "evidence": []
+    },
+    {
+      "id": "er332",
+      "sourceId": "jim-carrey",
+      "targetId": "jeff-daniels",
+      "type": "collaboration",
+      "startYear": 1994,
+      "endYear": 2014,
+      "weight": 4,
+      "summary": "Dumb and Dumber duo",
+      "evidence": []
+    },
+    {
+      "id": "er333",
+      "sourceId": "jimmy-carr",
+      "targetId": "sean-lock",
+      "type": "collaboration",
+      "startYear": 2005,
+      "endYear": 2021,
+      "weight": 4,
+      "summary": "8 Out of 10 Cats co-regulars for many years",
+      "evidence": []
+    },
+    {
+      "id": "er334",
+      "sourceId": "jimmy-carr",
+      "targetId": "jon-richardson",
+      "type": "collaboration",
+      "startYear": 2012,
+      "endYear": null,
+      "weight": 3,
+      "summary": "8 Out of 10 Cats team captains",
+      "evidence": []
+    },
+    {
+      "id": "er335",
+      "sourceId": "james-acaster",
+      "targetId": "ed-gamble",
+      "type": "collaboration",
+      "startYear": 2018,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Off Menu podcast co-hosts; longtime friends",
+      "evidence": []
+    },
+    {
+      "id": "er336",
+      "sourceId": "bernie-mac",
+      "targetId": "cedric",
+      "type": "collaboration",
+      "startYear": 2000,
+      "endYear": 2000,
+      "weight": 5,
+      "summary": "Original Kings of Comedy tour together",
+      "evidence": []
+    },
+    {
+      "id": "er337",
+      "sourceId": "bernie-mac",
+      "targetId": "steve-harvey",
+      "type": "collaboration",
+      "startYear": 2000,
+      "endYear": 2000,
+      "weight": 5,
+      "summary": "Original Kings of Comedy tour together",
+      "evidence": []
+    },
+    {
+      "id": "er338",
+      "sourceId": "bernie-mac",
+      "targetId": "dl-hughley",
+      "type": "collaboration",
+      "startYear": 2000,
+      "endYear": 2000,
+      "weight": 5,
+      "summary": "Original Kings of Comedy tour together",
+      "evidence": []
+    },
+    {
+      "id": "er339",
+      "sourceId": "cedric",
+      "targetId": "dl-hughley",
+      "type": "collaboration",
+      "startYear": 2000,
+      "endYear": 2000,
+      "weight": 5,
+      "summary": "Original Kings of Comedy tour together",
+      "evidence": []
+    },
+    {
+      "id": "er340",
+      "sourceId": "steve-harvey",
+      "targetId": "dl-hughley",
+      "type": "collaboration",
+      "startYear": 2000,
+      "endYear": 2000,
+      "weight": 5,
+      "summary": "Original Kings of Comedy tour together",
+      "evidence": []
+    },
+    {
+      "id": "er341",
+      "sourceId": "joan-rivers",
+      "targetId": "sarah-silverman",
+      "type": "influence",
+      "startYear": 1990,
+      "endYear": 2014,
+      "weight": 3,
+      "summary": "Rivers paved the way for provocative female comedy",
+      "evidence": []
+    },
+    {
+      "id": "er342",
+      "sourceId": "phyllis-diller",
+      "targetId": "joan-rivers",
+      "type": "mentor",
+      "startYear": 1960,
+      "endYear": 1975,
+      "weight": 3,
+      "summary": "Diller mentored and encouraged Rivers early in her career",
+      "evidence": []
+    },
+    {
+      "id": "er343",
+      "sourceId": "lily-tomlin",
+      "targetId": "jane-fonda",
+      "type": "collaboration",
+      "startYear": 1980,
+      "endYear": null,
+      "weight": 4,
+      "summary": "9 to 5 and Grace and Frankie co-stars",
+      "evidence": []
+    },
+    {
+      "id": "er344",
+      "sourceId": "aubrey-plaza",
+      "targetId": "chris-pratt",
+      "type": "collaboration",
+      "startYear": 2009,
+      "endYear": 2015,
+      "weight": 4,
+      "summary": "Parks and Recreation castmates",
+      "evidence": []
+    },
+    {
+      "id": "er345",
+      "sourceId": "nick-offerman",
+      "targetId": "megan-mullally",
+      "type": "family",
+      "startYear": 2003,
+      "endYear": null,
+      "weight": 4,
+      "summary": "Married couple, both comedy actors",
+      "evidence": []
+    },
+    {
+      "id": "er346",
+      "sourceId": "ken-jeong",
+      "targetId": "zach-galifianakis",
+      "type": "collaboration",
+      "startYear": 2009,
+      "endYear": 2013,
+      "weight": 4,
+      "summary": "The Hangover co-stars",
+      "evidence": []
     }
   ]
 }
