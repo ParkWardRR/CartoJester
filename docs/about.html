@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<meta name="description" content="Explore a time-filtered network graph of comedian alliances — collaborations, troupes, influences, mentorships, and rivalries — from the silent era to today." />
+		<meta name="theme-color" content="#a855f7" />
+		<meta property="og:title" content="CartoJester — Comedian Alliances Atlas" />
+		<meta property="og:description" content="Interactive network graph exploring comedian alliances across decades." />
+		<meta property="og:type" content="website" />
+		<link rel="icon" href="./favicon.svg" />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+		<title>CartoJester — Comedian Alliances Atlas</title>
+		<link href="./_app/immutable/entry/start.BLIjrnxR.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/keU3svU6.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/CmCtERzj.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/CUfRWbJL.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/SAocUjQW.js" rel="modulepreload">
+		<link href="./_app/immutable/entry/app.COguAAcC.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/CpbEMCwE.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/9RfJay7K.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/7tdfOOqF.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/DVtRuvvK.js" rel="modulepreload">
+		<link href="./_app/immutable/nodes/0.DJObjYtw.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/AW4-FjYb.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/6iW5B4yK.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/xkNMZTin.js" rel="modulepreload">
+		<link href="./_app/immutable/nodes/3.ua6-rgVr.js" rel="modulepreload">
+		<link href="./_app/immutable/chunks/DIayDDhR.js" rel="modulepreload">
+		<!--cwls5q--><meta name="description" content="How the Comedian Alliances Atlas works: alliance types, time filtering, and seed notability."/><!----><title>About — CartoJester</title>
+		<link href="./_app/immutable/assets/0.Bg7271PI.css" rel="stylesheet">
+		<link href="./_app/immutable/assets/3.ClEivwXK.css" rel="stylesheet">
+	</head>
+	<body data-sveltekit-preload-data="hover">
+		<div style="display: contents"><!--[--><!--[--><!----><div class="app-shell svelte-12qhfyh"><nav class="navbar svelte-rfuq4y" aria-label="Main navigation"><a href="./" class="logo svelte-rfuq4y"><span class="logo-icon svelte-rfuq4y">🃏</span> <span class="logo-text svelte-rfuq4y">CartoJester</span></a> <div class="nav-links svelte-rfuq4y"><a href="./" class="svelte-rfuq4y">Explorer</a> <a href="./about" class="svelte-rfuq4y">About</a> <a href="./data" class="svelte-rfuq4y">Data</a></div> <div class="nav-actions svelte-rfuq4y"><button class="nav-btn svelte-rfuq4y" title="Search (⌘K)"><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg> <kbd class="svelte-rfuq4y">⌘K</kbd></button> <button class="nav-btn theme-toggle svelte-rfuq4y" title="Toggle theme"><!--[!--><svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg><!--]--></button></div></nav><!----> <main class="app-main svelte-12qhfyh"><!----><div class="about-page svelte-cwls5q"><div class="about-content svelte-cwls5q"><h1 class="svelte-cwls5q">About CartoJester</h1> <p class="subtitle svelte-cwls5q">Understanding the Comedian Alliances Atlas</p> <section class="svelte-cwls5q"><h2 class="svelte-cwls5q">What is an "Alliance"?</h2> <p class="svelte-cwls5q">An alliance represents a meaningful connection between two
+                comedians. We track seven distinct types:</p> <div class="type-grid svelte-cwls5q"><div class="type-card svelte-cwls5q" style="--tc:#a855f7"><span class="dot svelte-cwls5q"></span> <h3 class="svelte-cwls5q">Collaboration</h3> <p class="svelte-cwls5q">Co-starred in films, shows, or tours together</p></div> <div class="type-card svelte-cwls5q" style="--tc:#f59e0b"><span class="dot svelte-cwls5q"></span> <h3 class="svelte-cwls5q">Troupe</h3> <p class="svelte-cwls5q">Members of the same comedy group, cast, or ensemble</p></div> <div class="type-card svelte-cwls5q" style="--tc:#3b82f6"><span class="dot svelte-cwls5q"></span> <h3 class="svelte-cwls5q">Influence</h3> <p class="svelte-cwls5q">Documented comedic influence on another performer's
+                        style</p></div> <div class="type-card svelte-cwls5q" style="--tc:#10b981"><span class="dot svelte-cwls5q"></span> <h3 class="svelte-cwls5q">Mentor</h3> <p class="svelte-cwls5q">Direct mentorship or professional guidance relationship</p></div> <div class="type-card svelte-cwls5q" style="--tc:#ef4444"><span class="dot svelte-cwls5q"></span> <h3 class="svelte-cwls5q">Rivalry</h3> <p class="svelte-cwls5q">Professional competition or creative rivalry between
+                        performers</p></div> <div class="type-card svelte-cwls5q" style="--tc:#8b5cf6"><span class="dot svelte-cwls5q"></span> <h3 class="svelte-cwls5q">Studio</h3> <p class="svelte-cwls5q">Connected through the same studio, production company,
+                        or label</p></div> <div class="type-card svelte-cwls5q" style="--tc:#ec4899"><span class="dot svelte-cwls5q"></span> <h3 class="svelte-cwls5q">Family</h3> <p class="svelte-cwls5q">Blood relatives who performed together or in the same
+                        field</p></div></div></section> <section class="svelte-cwls5q"><h2 class="svelte-cwls5q">Time Filtering</h2> <p class="svelte-cwls5q">Every node and edge has optional time bounds. When you set a
+                year range:</p> <ul class="svelte-cwls5q"><li class="svelte-cwls5q"><strong class="svelte-cwls5q">Nodes</strong> appear if their active period overlaps
+                    the filter range</li> <li class="svelte-cwls5q"><strong class="svelte-cwls5q">Edges</strong> appear if their relationship period overlaps
+                    the range</li> <li class="svelte-cwls5q">Use the <strong class="svelte-cwls5q">Play</strong> button to animate through comedy
+                    history</li> <li class="svelte-cwls5q">Quick-jump buttons let you focus on specific decades</li></ul></section> <section class="svelte-cwls5q"><h2 class="svelte-cwls5q">Seed Notability</h2> <p class="svelte-cwls5q">Each comedian has a notability score from 1–5. This is a
+                best-effort heuristic reflecting general public recognition and
+                historical impact. It is <strong>not</strong> a quality judgment.</p> <p class="svelte-cwls5q">Notability affects node size on the graph. Higher-notability
+                comedians appear larger. This score is a placeholder for a more
+                rigorous metric and should be extended with community input.</p></section> <section class="svelte-cwls5q"><h2 class="svelte-cwls5q">Data Sources</h2> <p class="svelte-cwls5q">The seed dataset is hand-curated with evidence links (primarily
+                Wikipedia). Auto-ingested data comes from Wikidata queries
+                processed through Apple ML deduplication on-device. All
+                auto-ingested entries are flagged for verification.</p></section></div></div><!----><!----></main></div> <!--[!--><!--]--><!----><!----><!--]--> <!--[!--><!--]--><!--]-->
+			
+			<script>
+				{
+					__sveltekit_15n9cqn = {
+						base: new URL(".", location).pathname.slice(0, -1)
+					};
+
+					const element = document.currentScript.parentElement;
+
+					Promise.all([
+						import("./_app/immutable/entry/start.BLIjrnxR.js"),
+						import("./_app/immutable/entry/app.COguAAcC.js")
+					]).then(([kit, app]) => {
+						kit.start(app, element, {
+							node_ids: [0, 3],
+							data: [null,null],
+							form: null,
+							error: null
+						});
+					});
+				}
+			</script>
+		</div>
+	</body>
+</html>
