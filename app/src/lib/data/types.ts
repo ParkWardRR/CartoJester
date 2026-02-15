@@ -51,26 +51,69 @@ export const EDGE_COLORS: Record<EdgeType, string> = {
     family: '#ec4899'
 };
 
-export const TAG_COLORS: Record<string, string> = {
-    silent: '#94a3b8',
-    standup: '#f97316',
-    sketch: '#06b6d4',
-    film: '#eab308',
-    tv: '#8b5cf6',
-    snl: '#3b82f6',
-    keystone: '#78716c',
-    improv: '#14b8a6',
-    animation: '#f43f5e',
-    vaudeville: '#d97706',
-    podcast: '#10b981',
-    panel: '#e879f9',
-    latenight: '#f472b6',
-    india: '#f59e0b',
-    philippines: '#22d3ee',
-    indonesia: '#06b6d4',
-    malaysia: '#a78bfa',
-    singapore: '#818cf8'
-};
+export interface TagCategory {
+    id: string;
+    label: string;
+    emoji: string;
+    tags: Record<string, string>; // tag → color
+}
+
+export const TAG_CATEGORIES: TagCategory[] = [
+    {
+        id: 'format',
+        label: 'Format',
+        emoji: '🎤',
+        tags: {
+            standup: '#f97316',
+            sketch: '#06b6d4',
+            improv: '#14b8a6',
+            film: '#eab308',
+            tv: '#8b5cf6',
+            animation: '#f43f5e',
+            panel: '#e879f9',
+            podcast: '#10b981',
+            latenight: '#f472b6',
+            snl: '#3b82f6',
+        }
+    },
+    {
+        id: 'era',
+        label: 'Era',
+        emoji: '🕰️',
+        tags: {
+            silent: '#94a3b8',
+            vaudeville: '#d97706',
+            keystone: '#78716c',
+        }
+    },
+    {
+        id: 'region',
+        label: 'Region',
+        emoji: '🌏',
+        tags: {
+            india: '#f59e0b',
+            philippines: '#22d3ee',
+            indonesia: '#06b6d4',
+            malaysia: '#a78bfa',
+            singapore: '#818cf8',
+        }
+    },
+];
+
+// Flat map for backward compatibility — all components that just need tag→color can still use this
+export const TAG_COLORS: Record<string, string> = TAG_CATEGORIES.reduce(
+    (acc, cat) => ({ ...acc, ...cat.tags }),
+    {} as Record<string, string>
+);
+
+// Lookup: tag → category id
+export const TAG_TO_CATEGORY: Record<string, string> = TAG_CATEGORIES.reduce(
+    (acc, cat) => {
+        for (const tag of Object.keys(cat.tags)) acc[tag] = cat.id;
+        return acc;
+    },
+    {} as Record<string, string>
+);
 
 export const ERA_PRESETS: { label: string; start: number; end: number }[] = [
     { label: 'Silent Era', start: 1895, end: 1930 },

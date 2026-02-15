@@ -9,7 +9,12 @@
     yearRange,
     clusterMode,
   } from "$lib/stores";
-  import { EDGE_COLORS, TAG_COLORS } from "$lib/data/types";
+  import {
+    EDGE_COLORS,
+    TAG_COLORS,
+    TAG_TO_CATEGORY,
+    TAG_CATEGORIES,
+  } from "$lib/data/types";
   import type { ComedianNode, AllianceEdge } from "$lib/data/types";
 
   let container: HTMLDivElement;
@@ -573,10 +578,13 @@
       </div>
       <div class="tooltip-tags">
         {#each hoveredNode.tags as tag}
+          {@const catId = TAG_TO_CATEGORY[tag]}
+          {@const cat = TAG_CATEGORIES.find((c) => c.id === catId)}
           <span
             class="tooltip-tag"
             style="background: {TAG_COLORS[tag] ||
-              '#94a3b8'}40; color: {TAG_COLORS[tag] || '#94a3b8'}">{tag}</span
+              '#94a3b8'}40; color: {TAG_COLORS[tag] || '#94a3b8'}"
+            >{cat?.emoji ?? ""} {tag}</span
           >
         {/each}
       </div>

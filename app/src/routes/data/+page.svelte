@@ -1,6 +1,11 @@
 <script lang="ts">
     import { nodes, edges } from "$lib/stores";
-    import { EDGE_COLORS, TAG_COLORS } from "$lib/data/types";
+    import {
+        EDGE_COLORS,
+        TAG_COLORS,
+        TAG_TO_CATEGORY,
+        TAG_CATEGORIES,
+    } from "$lib/data/types";
     import seedData from "$lib/data/seed.json";
 
     let searchTerm = "";
@@ -91,10 +96,15 @@
                                         "now"}</td
                                 >
                                 <td class="tags-cell"
-                                    >{#each n.tags as t}<span
+                                    >{#each n.tags as t}{@const catId =
+                                            TAG_TO_CATEGORY[t]}{@const cat =
+                                            TAG_CATEGORIES.find(
+                                                (c) => c.id === catId,
+                                            )}<span
                                             class="minitag"
                                             style="color:{TAG_COLORS[t] ||
-                                                '#94a3b8'}">{t}</span
+                                                '#94a3b8'}"
+                                            >{cat?.emoji ?? ""} {t}</span
                                         >{/each}</td
                                 >
                                 <td>{n.notability}</td>

@@ -5,7 +5,12 @@
         selectedNodeId,
         selectedEdgeId,
     } from "$lib/stores";
-    import { EDGE_COLORS, TAG_COLORS } from "$lib/data/types";
+    import {
+        EDGE_COLORS,
+        TAG_COLORS,
+        TAG_TO_CATEGORY,
+        TAG_CATEGORIES,
+    } from "$lib/data/types";
 
     function close() {
         selectedNodeId.set(null);
@@ -67,16 +72,23 @@
             {/if}
         </div>
 
-        <div class="tags-row">
-            {#each $selectedNode.tags as tag}
-                <span
-                    class="detail-tag"
-                    style="background: {TAG_COLORS[tag] ||
-                        '#94a3b8'}20; color: {TAG_COLORS[tag] ||
-                        '#94a3b8'}; border: 1px solid {TAG_COLORS[tag] ||
-                        '#94a3b8'}40">{tag}</span
-                >
-            {/each}
+        <div class="tags-section">
+            <div class="tags-row">
+                {#each $selectedNode.tags as tag}
+                    {@const catId = TAG_TO_CATEGORY[tag]}
+                    {@const cat = TAG_CATEGORIES.find((c) => c.id === catId)}
+                    <span
+                        class="detail-tag"
+                        style="background: {TAG_COLORS[tag] ||
+                            '#94a3b8'}20; color: {TAG_COLORS[tag] ||
+                            '#94a3b8'}; border: 1px solid {TAG_COLORS[tag] ||
+                            '#94a3b8'}40"
+                        title="{cat?.label ?? 'Tag'}: {tag}"
+                        ><span class="tag-cat-icon">{cat?.emoji ?? "🏷️"}</span
+                        >{tag}</span
+                    >
+                {/each}
+            </div>
             <span class="notability-badge" title="Notability score">
                 {"★".repeat($selectedNode.notability)}{"☆".repeat(
                     5 - $selectedNode.notability,
@@ -281,11 +293,18 @@
         font-size: 12px;
         color: var(--text-secondary);
     }
+    .tags-section {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+        gap: 8px;
+    }
     .tags-row {
         display: flex;
         flex-wrap: wrap;
         gap: 4px;
         align-items: center;
+        flex: 1;
     }
     .detail-tag {
         font-size: 10px;
@@ -294,6 +313,13 @@
         border-radius: 5px;
         text-transform: uppercase;
         letter-spacing: 0.5px;
+        display: inline-flex;
+        align-items: center;
+        gap: 2px;
+    }
+    .tag-cat-icon {
+        font-size: 9px;
+        line-height: 1;
     }
     .notability-badge {
         font-size: 12px;

@@ -2,7 +2,11 @@
     import { COMEDY_GROUPS, type ComedyGroup } from "$lib/data/groups";
     import { nodes, selectedNode, enabledTags, yearRange } from "$lib/stores";
     import type { ComedianNode } from "$lib/data/types";
-    import { TAG_COLORS } from "$lib/data/types";
+    import {
+        TAG_COLORS,
+        TAG_TO_CATEGORY,
+        TAG_CATEGORIES,
+    } from "$lib/data/types";
     import { base } from "$app/paths";
     import { onMount } from "svelte";
 
@@ -143,12 +147,17 @@
                                 {/if}
                                 <div class="member-tags">
                                     {#each member.tags.slice(0, 3) as tag}
+                                        {@const catId = TAG_TO_CATEGORY[tag]}
+                                        {@const cat = TAG_CATEGORIES.find(
+                                            (c) => c.id === catId,
+                                        )}
                                         <span
                                             class="mini-tag"
                                             style="background: {getTagColor(
                                                 tag,
                                             )}20; color: {getTagColor(tag)}"
-                                            >{tag}</span
+                                            title="{cat?.label ?? 'Tag'}: {tag}"
+                                            >{cat?.emoji ?? ""} {tag}</span
                                         >
                                     {/each}
                                 </div>

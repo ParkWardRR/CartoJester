@@ -1,5 +1,5 @@
 <script lang="ts">
-    import { EDGE_TYPES, EDGE_COLORS, TAG_COLORS } from "$lib/data/types";
+    import { EDGE_TYPES, EDGE_COLORS, TAG_CATEGORIES } from "$lib/data/types";
 </script>
 
 <div class="legend" role="region" aria-label="Graph legend">
@@ -13,15 +13,17 @@
             </span>
         {/each}
     </div>
-    <div class="legend-group">
-        <span class="legend-title">Tags</span>
-        {#each Object.entries(TAG_COLORS) as [tag, color]}
-            <span class="legend-item">
-                <span class="leg-dot" style="background:{color}"></span>
-                <span class="leg-label">{tag}</span>
-            </span>
-        {/each}
-    </div>
+    {#each TAG_CATEGORIES as cat}
+        <div class="legend-group">
+            <span class="legend-title">{cat.emoji} {cat.label}</span>
+            {#each Object.entries(cat.tags) as [tag, color]}
+                <span class="legend-item">
+                    <span class="leg-dot" style="background:{color}"></span>
+                    <span class="leg-label">{tag}</span>
+                </span>
+            {/each}
+        </div>
+    {/each}
 </div>
 
 <style>
@@ -52,6 +54,7 @@
         letter-spacing: 0.08em;
         color: var(--text-muted);
         margin-right: 4px;
+        white-space: nowrap;
     }
     .legend-item {
         display: flex;

@@ -2,10 +2,11 @@
     import {
         EDGE_TYPES,
         EDGE_COLORS,
+        TAG_CATEGORIES,
         TAG_COLORS,
         ERA_PRESETS,
     } from "$lib/data/types";
-    import type { EdgeType } from "$lib/data/types";
+    import type { EdgeType, TagCategory } from "$lib/data/types";
     import {
         enabledEdgeTypes,
         enabledTags,
@@ -16,7 +17,6 @@
         showOnlyVerified,
     } from "$lib/stores";
 
-    const allTags = Object.keys(TAG_COLORS);
     let showPanel = false;
 
     function togglePanel() {
@@ -39,6 +39,38 @@
             else next.add(tag);
             return next;
         });
+    }
+
+    function toggleCategory(cat: TagCategory) {
+        enabledTags.update((s) => {
+            const next = new Set(s);
+            const catTags = Object.keys(cat.tags);
+            const allActive = catTags.every((t) => next.has(t));
+            if (allActive) {
+                catTags.forEach((t) => next.delete(t));
+            } else {
+                catTags.forEach((t) => next.add(t));
+            }
+            return next;
+        });
+    }
+
+    function isCategoryFullyActive(
+        cat: TagCategory,
+        enabled: Set<string>,
+    ): boolean {
+        return Object.keys(cat.tags).every((t) => enabled.has(t));
+    }
+
+    function isCategoryPartiallyActive(
+        cat: TagCategory,
+        enabled: Set<string>,
+    ): boolean {
+        const tags = Object.keys(cat.tags);
+        return (
+            tags.some((t) => enabled.has(t)) &&
+            !tags.every((t) => enabled.has(t))
+        );
     }
 
     function setEra(start: number, end: number) {
@@ -151,22 +183,41 @@
         </div>
     </section>
 
-    <section>
+    <section class="tag-categories-section">
         <h3>Tags</h3>
-        <div class="chip-grid">
-            {#each allTags as tag}
+        {#each TAG_CATEGORIES as cat}
+            <div class="tag-category">
                 <button
-                    class="chip"
-                    class:active={$enabledTags.has(tag)}
-                    style="--chip-color: {TAG_COLORS[tag]}"
-                    on:click={() => toggleTag(tag)}
+                    class="category-header"
+                    class:all-active={isCategoryFullyActive(cat, $enabledTags)}
+                    class:partial-active={isCategoryPartiallyActive(
+                        cat,
+                        $enabledTags,
+                    )}
+                    on:click={() => toggleCategory(cat)}
+                    title="Toggle all {cat.label} tags"
                 >
-                    <span class="chip-dot" style="background: {TAG_COLORS[tag]}"
-                    ></span>
-                    {tag}
+                    <span class="cat-emoji">{cat.emoji}</span>
+                    <span class="cat-label">{cat.label}</span>
+                    <span class="cat-count">{Object.keys(cat.tags).length}</span
+                    >
                 </button>
-            {/each}
-        </div>
+                <div class="chip-grid">
+                    {#each Object.entries(cat.tags) as [tag, color]}
+                        <button
+                            class="chip"
+                            class:active={$enabledTags.has(tag)}
+                            style="--chip-color: {color}"
+                            on:click={() => toggleTag(tag)}
+                        >
+                            <span class="chip-dot" style="background: {color}"
+                            ></span>
+                            {tag}
+                        </button>
+                    {/each}
+                </div>
+            </div>
+        {/each}
     </section>
 
     <section>
@@ -410,5 +461,57 @@
     }
     .toggle-row input {
         accent-color: var(--color-brand-500);
+    }
+    .tag-categories-section {
+        gap: 6px;
+    }
+    .tag-category {
+        display: flex;
+        flex-direction: column;
+        gap: 4px;
+    }
+    .category-header {
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        padding: 5px 8px;
+        border-radius: 6px;
+        border: 1px solid var(--border);
+        background: var(--bg-card);
+        cursor: pointer;
+        transition: all 0.15s;
+        margin-bottom: 2px;
+    }
+    .category-header:hover {
+        background: var(--bg-elevated);
+        border-color: var(--border-active);
+    }
+    .category-header.all-active {
+        background: color-mix(in srgb, var(--color-brand-500) 10%, transparent);
+        border-color: var(--color-brand-500);
+    }
+    .category-header.partial-active {
+        border-color: var(--color-brand-400);
+        border-style: dashed;
+    }
+    .cat-emoji {
+        font-size: 13px;
+        line-height: 1;
+    }
+    .cat-label {
+        font-size: 11px;
+        font-weight: 600;
+        color: var(--text-primary);
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+    }
+    .cat-count {
+        font-size: 10px;
+        font-weight: 500;
+        color: var(--text-muted);
+        margin-left: auto;
+        background: var(--bg-elevated);
+        padding: 1px 5px;
+        border-radius: 4px;
     }
 </style>
