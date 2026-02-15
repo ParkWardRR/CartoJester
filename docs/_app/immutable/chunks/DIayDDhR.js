@@ -1,1 +1,0 @@
-import{j as o,k as u,H as p,l as t,C as _,m as a,s as i,n,o as g,p as m}from"./CmCtERzj.js";function E(d,r){let s=null,f=t;var l;if(t){s=g;for(var e=m(document.head);e!==null&&(e.nodeType!==_||e.data!==d);)e=a(e);if(e===null)i(!1);else{var y=a(e);e.remove(),n(y)}}t||(l=document.head.appendChild(o()));try{u(()=>r(l),p)}finally{f&&(i(!0),n(s))}}export{E as h};

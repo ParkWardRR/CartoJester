@@ -15,6 +15,10 @@
             >Explorer</a
         >
         <a
+            href="{base}/groups"
+            class:active={$page.url.pathname === `${base}/groups`}>Vibes</a
+        >
+        <a
             href="{base}/about"
             class:active={$page.url.pathname === `${base}/about`}>About</a
         >
