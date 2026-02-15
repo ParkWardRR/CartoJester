@@ -20,3 +20,8 @@ tools/ingest/.cache/
 # Env
 .env
 .env.*
+wiki_comedians.json
+comedians_500_new.txt
+comedians_enriched.json
+exclude.txt
+tools/enrich/
